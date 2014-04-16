@@ -4,6 +4,3 @@
 [submodule ".vim/colors/git/molokai-git"]
 	path = .vim/colors/git/molokai-git
 	url = https://github.com/tomasr/molokai.git
-[submodule "powerline"]
-	path = powerline
-	url = https://github.com/Lokaltog/powerline.git

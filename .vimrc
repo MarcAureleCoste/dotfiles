@@ -1,3 +1,8 @@
+" ========== Powerline python version ==========
+" Replace /home/coste_m/.dotfiles/ with the path where
+" you clone the powerline git repository
+set rtp+=/home/coste_m/.dotfiles/powerline/powerline/bindings/vim
+
 " ========== Auto-reload configuration ==========
 autocmd! bufwritepost .vimrc source %
 
@@ -5,6 +10,7 @@ autocmd! bufwritepost .vimrc source %
 let mapleader=","
 
 " ========== Pathogen ==========
+" Remove this if you use another vim package manager
 execute pathogen#infect()
 
 " ========== General settings ==========
