@@ -15,6 +15,8 @@ vno <right> <Nop>
 vno <down> <Nop>
 
 " ========== Tab management ==========
+" Clearly not the most efficient way to do that but
+" remind me how I switch tab in my web browser
 no <C-Page-Down> :tabnext<CR>
 no <C-Page-Up> :tabprevious<CR>
 

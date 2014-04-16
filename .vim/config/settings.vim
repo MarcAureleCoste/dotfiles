@@ -22,3 +22,11 @@ set number
 set tw=79
 set colorcolumn=80
 highlight ColorColumn ctermbg=233
+
+" ========== Vi compatibility ==========
+set nocompatible
+
+" ========== Satusline ==========
+" You want that if you use powerline otherwise it will no
+" be present all time
+set laststatus=2
