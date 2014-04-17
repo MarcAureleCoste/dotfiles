@@ -13,6 +13,10 @@ let mapleader=","
 " Remove this if you use another vim package manager
 execute pathogen#infect()
 
+" ========== Addons specific config ==========
+" === > clang_complete:
+source ~/.vim/config/clang_complete.vim
+
 " ========== General settings ==========
 source ~/.vim/config/settings.vim
 
