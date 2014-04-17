@@ -1,0 +1,221 @@
+! Configuration for X applications
+! ##################### XFT settings ######################
+Xft.dpi:            96
+Xft.antialias:      true
+Xft.rgba:           rgb
+Xft.hinting:        true
+Xft.hintstyle:      hintslight
+Xft.lcdfilter:      lcddefault
+! #########################################################
+
+! ##################### Xterm settings ####################
+xterm*dynamicColors:        true
+xterm*utf8:                 1
+xterm*saveLines:            10000
+
+! xterm*faceName:             Liberation Mono
+! xterm*faceSize:             11
+
+xterm*faceName:             Liberation Mono for Powerline
+xterm*faceSize:              13
+
+! xterm*vt100.initialFont:    2
+
+!	## Color scheme ##
+
+! xterm*background:       #3f3f3f
+! xterm*foreground:       #dcdccc
+
+!! black
+! xterm*color0:           #222946
+! xterm*color8:           #8C8B89
+!! red
+! xterm*color1:           #BE1919
+! xterm*color9:           #DC2F32
+!! green
+! xterm*color2:           #1AAA13
+! xterm*color10:          #5DCE33
+!! brown/yellow
+! xterm*color3:           #FFAA3E
+! xterm*color11:          #FADD2D
+!! blue
+! xterm*color4:           #3A57D7
+! xterm*color12:          #507CFF
+!! magenta
+! xterm*color5:           #BE007F
+! xterm*color13:          #E671D3
+!! cyan
+! xterm*color6:           #258F8F
+! xterm*color14:          #4DC5DC
+!! white
+! xterm*color7:           #AEAEAE
+! xterm*color15:          #DBDDE4
+
+##########################
+
+xterm*background:       #1A1A1A
+xterm*foreground:       #3B3B3B
+
+!! black
+xterm*color0:           #302C23
+xterm*color8:           #635B49
+!! red
+xterm*color1:           #A73E28
+xterm*color9:           #D95034
+!! green
+xterm*color2:           #878438
+xterm*color10:          #BAB64D
+!! brown/yellow
+xterm*color3:           #C4905E
+xterm*color11:          #F7B677
+!! blue
+xterm*color4:           #3D444E
+xterm*color12:          #667182
+!! magenta
+xterm*color5:           #533F48
+xterm*color13:          #876775
+!! cyan
+xterm*color6:           #9D534A
+xterm*color14:          #D16F63
+!! white
+xterm*color7:           #EDDEC9
+xterm*color15:          #FFEFD8
+! #########################################################
+
+
+! ##################### URxvt settings ####################
+URxvt*cursorUnderline:  true
+URxvt*saveLines:        15000
+URxvt*font:             xft:Liberation Mono:pixelsize=11:antialias=true:hinting=true
+URxvt*boldFont:         xft:Liberation Mono:bold:pixelsize=12:antialias=true:hinting=true
+
+! URxvt*font:           xft:Liberation Mono:pixelsize=14:antialias=true:hinting=true
+! URxvt*boldFont:       xft:Liberation Mono:bold:pixelsize=15:antialias=true:hinting=true
+
+URxvt*scrollBar:        false
+
+!       ## Color scheme ##
+
+! URxvt*background:       #3F3F3F
+! URxvt*foreground:       #DCDCCC
+
+!! black
+! URxvt*color0:           #222946
+! URxvt*color8:           #8C8B89
+!! red
+! URxvt*color1:           #BE1919
+! URxvt*color9:           #DC2F32
+!! green
+! URxvt*color2:           #1AAA13
+! URxvt*color10:          #5DCE33
+!! brown/yellow
+! URxvt*color3:           #FFAA3E
+! URxvt*color11:          #FADD2D
+!! blue
+! URxvt*color4:           #3A57D7
+! URxvt*color12:          #507CFF
+!! magenta
+! URxvt*color5:           #BE007F
+! URxvt*color13:          #E671D3
+!! cyan
+! URxvt*color6:           #258F8F
+! URxvt*color14:          #4DC5DC
+!! white
+! URxvt*color7:           #AEAEAE
+! URxvt*color15:          #DBDDE4
+
+##########################
+
+URxvt*background:       #1A1A1A
+URxvt*foreground:       #3B3B3B
+
+! black
+URxvt*color0:           #302C23
+URxvt*color8:           #635B49
+!! red
+URxvt*color1:           #A73E28
+URxvt*color9:           #D95034
+!! green
+URxvt*color2:           #878438
+URxvt*color10:          #BAB64D
+!! brown/yellow
+URxvt*color3:           #C4905E
+URxvt*color11:          #F7B677
+!! blue
+URxvt*color4:           #3D444E
+URxvt*color12:          #667182
+!! magenta
+URxvt*color5:           #533F48
+URxvt*color13:          #876775
+!! cyan
+URxvt*color6:           #9D534A
+URxvt*color14:          #D16F63
+!! white
+URxvt*color7:           #EDDEC9
+URxvt*color15:          #FFEFD8
+! #########################################################
+
+! ##################### xcalc settings ####################
+xcalc*geometry:                        300x275
+
+xcalc*ti.background:                   #1A1A1A
+
+xcalc*ti.bevel.background:             #111111
+xcalc*ti.bevel.screen.background:      #000000
+
+xcalc*ti.bevel.screen.DEG.background:  #000000
+xcalc*ti.bevel.screen.DEG.foreground:  LightSeaGreen
+
+xcalc*ti.bevel.screen.GRAD.background: #000000
+xcalc*ti.bevel.screen.GRAD.foreground: LightSeaGreen
+
+xcalc*ti.bevel.screen.RAD.background:  #000000
+xcalc*ti.bevel.screen.RAD.foreground:  LightSeaGreen
+
+xcalc*ti.bevel.screen.INV.background:  #000000
+xcalc*ti.bevel.screen.INV.foreground:  Red
+
+xcalc*ti.bevel.screen.LCD.background:  #000000
+xcalc*ti.bevel.screen.LCD.foreground:  LightSeaGreen
+xcalc*ti.bevel.screen.LCD.shadowWidth: 0
+
+xcalc*ti.bevel.screen.M.background:    #000000
+xcalc*ti.bevel.screen.M.foreground:    LightSeaGreen
+
+xcalc*ti.bevel.screen.P.background:    #000000
+xcalc*ti.bevel.screen.P.foreground:    Yellow
+
+xcalc*ti.Command.foreground:           White
+xcalc*ti.Command.background:           #777777
+
+xcalc*ti.button5.background:           Orange3
+xcalc*ti.button19.background:          #611161
+xcalc*ti.button18.background:          #611161
+
+xcalc*ti.button20.background:          #611111
+!uncomment to change label on division button
+xcalc*ti.button20.label:               /
+xcalc*ti.button25.background:          #722222
+xcalc*ti.button30.background:          #833333
+xcalc*ti.button35.background:          #944444
+xcalc*ti.button40.background:          #a55555
+
+xcalc*ti.button22.background:          #222262
+xcalc*ti.button23.background:          #222262
+xcalc*ti.button24.background:          #222272
+
+xcalc*ti.button27.background:          #333373
+xcalc*ti.button28.background:          #333373
+xcalc*ti.button29.background:          #333373
+
+xcalc*ti.button32.background:          #444484
+xcalc*ti.button33.background:          #444484
+xcalc*ti.button34.background:          #444484
+
+xcalc*ti.button37.background:          #555595
+xcalc*ti.button38.background:          #555595
+xcalc*ti.button39.background:          #555595
+
+xcalc*Cursor:                          hand2
+xcalc*ShapeStyle:                      rectangle
+! #########################################################
