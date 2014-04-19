@@ -1,5 +1,5 @@
-" Disable automatic popup
-let g:clang_complete_auto=0
+" Enable/Disable automatic popup
+let g:clang_complete_auto=1
 
 " Show clang error in quick fix window
 let g:clang_complete_cauto=1
@@ -13,3 +13,13 @@ let g:clang_snippets_engine="clang_complete"
 
 " Autocompletion behavior
 set completeopt="menu,menuone,longest"
+
+" Limit popup size
+set pumheight=15
+
+" Automatically choose the first entry in pop-up
+" windows without inserting
+let g:clang_auto_select=1
+
+" Highlight errors/warnings
+let g:clang_hl_errors=1

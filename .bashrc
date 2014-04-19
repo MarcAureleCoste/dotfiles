@@ -134,3 +134,6 @@ export LESS_TERMCAP_us=$'\E[04;38;5;146m' # begin underline]'
 
 # User specific path
 export PATH=:$HOME/Applications:$HOME/Applications_installed/bin:$PATH
+
+# Powerline prompt 
+. $HOME/.dotfiles/powerline/powerline/bindings/bash/powerline.sh

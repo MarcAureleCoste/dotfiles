@@ -30,3 +30,6 @@ set nocompatible
 " You want that if you use powerline otherwise it will no
 " be present all time
 set laststatus=2
+
+" Terminal settings
+set term=screen-256color

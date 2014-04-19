@@ -86,11 +86,12 @@ xterm*color15:          #FFEFD8
 ! ##################### URxvt settings ####################
 URxvt*cursorUnderline:  true
 URxvt*saveLines:        15000
-URxvt*font:             xft:Liberation Mono:pixelsize=11:antialias=true:hinting=true
-URxvt*boldFont:         xft:Liberation Mono:bold:pixelsize=12:antialias=true:hinting=true
 
-! URxvt*font:           xft:Liberation Mono:pixelsize=14:antialias=true:hinting=true
-! URxvt*boldFont:       xft:Liberation Mono:bold:pixelsize=15:antialias=true:hinting=true
+! URxvt*font:             xft:Liberation Mono:pixelsize=11:antialias=true:hinting=true
+! URxvt*boldFont:         xft:Liberation Mono:bold:pixelsize=12:antialias=true:hinting=true
+
+URxvt*font:             xft:Inconsolata\ for\ Powerline:pixelsize=12
+URxvt*boldFont:         xft:Inconsolata\ for\ Powerline:pixelsize=14
 
 URxvt*scrollBar:        false
 
