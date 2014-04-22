@@ -16,6 +16,10 @@ execute pathogen#infect()
 " ========== Addons specific config ==========
 " === > clang_complete:
 source ~/.vim/config/clang_complete.vim
+" === > ctrlp:
+source ~/.vim/config/ctrlp.vim
+" === > python-mode:
+source ~/.vim/config/python-mode.vim
 
 " ========== General settings ==========
 source ~/.vim/config/settings.vim

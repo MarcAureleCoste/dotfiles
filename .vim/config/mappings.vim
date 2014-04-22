@@ -1,4 +1,4 @@
-" ========== Unmap arrow keys ========== 
+" ========== Unmap arrow keys ==========
 no <up> ddkP
 no <left> <Nop>
 no <right> <Nop>
@@ -17,17 +17,23 @@ vno <down> <Nop>
 " ========== Tab management ==========
 " Clearly not the most efficient way to do that but
 " remind me how I switch tab in my web browser
-no <C-Page-Down> :tabnext<CR>
-no <C-Page-Up> :tabprevious<CR>
+no <leader>m :tabnext<CR>
+no <leader>n :tabprevious<CR>
 
-ino <C-Page-Down> <ESC>:tabnext<CR>
-ino <C-Page-Up> <ESC>:tabprevious<CR>
+ino <leader>m <ESC>:tabnext<CR>
+ino <leader>n <ESC>:tabprevious<CR>
 
-vno <C-Page-Down> <ESC>:tabnext<CR>
-vno <C-Page-Up> <ESC>:tabprevious<CR>
+vno <leader>m <ESC>:tabnext<CR>
+vno <leader>n <ESC>:tabprevious<CR>
 
-no <C-t> :tabnew<CR>
-ino <C-S-t> <ESC>:tabnew<CR>
+no <leader>z :tabnew<CR>
+ino <leader>z <ESC>:tabnew<CR>
+
+" ========== Split navigation ==========
+map <C-h> <C-w>h
+map <C-j> <C-w>j
+map <C-k> <C-w>k
+map <C-l> <C-w>l
 
 " ========== Pair ==========
 imap <leader>' ''<ESC>i
@@ -46,3 +52,9 @@ vmap <leader>s :sort<CR>
 " ========== Indentation ==========
 vmap > >gv
 vmap < <gv
+
+" ========== Sort operation in visual mode ==========
+vnoremap <leader>s :sort<CR>
+
+" ========== NERDTree ==========
+map <Tab> :NERDTreeToggle<CR>
