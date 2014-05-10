@@ -1,0 +1,76 @@
+2014-05-08 21:24:41	-->	Fresh-George (~coste_m@60.247.46.112) has joined #pyqt
+2014-05-08 21:24:41	--	Topic for #pyqt is "pyqt - http://pyqt.sourceforge.net/Docs/PyQt4/"
+2014-05-08 21:24:41	--	Topic set by patx (~patx@freecode-project/developer/patx) on Wed, 04 Sep 2013 07:12:24
+2014-05-08 21:24:41	--	Channel #pyqt: 52 nicks (0 ops, 0 voices, 52 normals)
+2014-05-08 21:24:44	--	Mode #pyqt [+nt]
+2014-05-08 21:24:44	--	Channel created on Sun, 14 Jan 2007 03:24:52
+2014-05-08 21:25:02	Fresh-George	Hi
+2014-05-08 21:31:16	Timrit	What's up, Fresh-George 
+2014-05-08 21:56:33	-->	junixbr (~junixbr@177.192.57.97) has joined #pyqt
+2014-05-08 22:46:02	Fresh-George	Sorry I was looking for more informations on internet. I'm new in PyQt and Qt in general and i need to implement a chat client but each messages is an object which contain some informations. My question is what is the best way to display these messages? Use a TextBrowser or create a new class which implement QAbstractItemView and use the Model/View programming way ?
+2014-05-08 22:46:26	Fresh-George	Sorry for my english it's my natve language
+2014-05-08 22:50:24	The-Compiler	Fresh-George: you probably mean "it's NOT my native language" ;)
+2014-05-08 22:51:21	The-Compiler	Fresh-George: Hmm, you could indeed do an ItemView. Or use something like a QTextEdit or even QWebView.
+2014-05-08 22:51:22	Fresh-George	yes ^^
+2014-05-08 22:54:08	Fresh-George	Yes the items views looks great but from the designer there are 4 of them and i'm not sure they can be used for chat or maybe ListView.
+2014-05-08 22:54:35	The-Compiler	I wonder how Quassel does this
+2014-05-08 22:54:39	The-Compiler	(IRC client in Qt)
+2014-05-08 22:56:17	Fresh-George	Ok I will search how they do that in Quassel thank you.
+2014-05-08 22:57:54	The-Compiler	seems they use a QGraphicsView with an QAbstractItemModel
+2014-05-08 22:58:03	The-Compiler	https://github.com/quassel/quassel/tree/master/src/qtui
+2014-05-08 22:58:05	NurseAlicia	Title: quassel/src/qtui at master · quassel/quassel · GitHub (at github.com)
+2014-05-08 22:58:11	The-Compiler	chat*.cpp
+2014-05-08 23:04:17	Fresh-George	Thank you your help I will search documentation on how to use these new elements.
+2014-05-08 23:04:38	Fresh-George	for your help*
+2014-05-08 23:21:08	david_boddie	I think one of my colleagues used a QTextBrowser in a chat client.
+2014-05-08 23:21:32	-->	btami (~btami___@catv-217-21-31-236.szelmalomktv.net) has joined #pyqt
+2014-05-08 23:24:21	<--	Jesperhead (~chatzilla@cpe-173-174-211-50.satx.res.rr.com) has left #pyqt
+2014-05-08 23:24:43	-->	Jesperhead (~chatzilla@cpe-173-174-211-50.satx.res.rr.com) has joined #pyqt
+2014-05-08 23:29:46	<--	btami (~btami___@catv-217-21-31-236.szelmalomktv.net) has left #pyqt
+2014-05-08 23:48:50	<--	bearsh|work (~quassel@222-92.77-83.cust.bluewin.ch) has quit (Ping timeout: 264 seconds)
+2014-05-08 23:56:31	<--	workingcats (~workingca@212.122.48.77) has quit (Quit: Leaving)
+2014-05-08 23:56:52	-->	workingcats (~workingca@212.122.48.77) has joined #pyqt
+2014-05-09 00:03:20	-->	Afrix (~Afrix4@2.26.57.105) has joined #pyqt
+2014-05-09 00:35:50	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Ping timeout: 246 seconds)
+2014-05-09 00:38:29	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has joined #pyqt
+2014-05-09 00:51:58	-->	sudobangbang (~chatzilla@75-151-97-182-Washington.hfc.comcastbusiness.net) has joined #pyqt
+2014-05-09 00:52:25	<--	ddsl (~kvirc@31.47.170.190) has quit (Read error: Connection reset by peer)
+2014-05-09 02:11:38	<--	russw (~russ@24-212-163-71.cable.teksavvy.com) has quit (Ping timeout: 258 seconds)
+2014-05-09 02:16:40	-->	russw (~russ@24-212-163-71.cable.teksavvy.com) has joined #pyqt
+2014-05-09 02:22:15	<--	Jesperhead (~chatzilla@cpe-173-174-211-50.satx.res.rr.com) has quit (Ping timeout: 265 seconds)
+2014-05-09 03:24:04	<--	junixbr (~junixbr@177.192.57.97) has quit (Quit: See you later...)
+2014-05-09 03:37:59	<--	a-l-e (~quassel@44-107.106-92.cust.bluewin.ch) has quit (Ping timeout: 240 seconds)
+2014-05-09 03:41:28	<--	jackneill (~jackneill@unaffiliated/jackneill) has quit (Read error: Connection reset by peer)
+2014-05-09 04:01:32	-->	junixbr (~junixbr@177.192.57.97) has joined #pyqt
+2014-05-09 04:02:38	-->	thomi (~quassel@ip-118-90-96-5.xdsl.xnet.co.nz) has joined #pyqt
+2014-05-09 04:44:20	<--	bgardner (~bgardner@c-98-222-38-131.hsd1.il.comcast.net) has quit (Quit: leaving)
+2014-05-09 05:25:35	-->	Jucato (~jucato@kde/developer/jucato) has joined #pyqt
+2014-05-09 05:26:50	-->	b19 (~b19@pdpc/supporter/21for7/steveg) has joined #pyqt
+2014-05-09 05:30:37	ovf	toothrot: the very end result is something akin to opera mini's obml
+2014-05-09 05:46:31	<--	b19 (~b19@pdpc/supporter/21for7/steveg) has quit (Quit: meh...)
+2014-05-09 06:31:34	-->	Burgundy (~burgundy@86.127.135.101) has joined #pyqt
+2014-05-09 06:35:32	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Quit: http://quassel-irc.org - Discuter simplement. Partout.)
+2014-05-09 06:36:06	<--	junixbr (~junixbr@177.192.57.97) has quit (Quit: See you later...)
+2014-05-09 06:57:10	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has joined #pyqt
+2014-05-09 06:59:15	<--	Jucato (~jucato@kde/developer/jucato) has quit (Ping timeout: 240 seconds)
+2014-05-09 07:00:02	-->	Jucato (~jucato@kde/developer/jucato) has joined #pyqt
+2014-05-09 07:00:10	<--	Jucato (~jucato@kde/developer/jucato) has quit (Client Quit)
+2014-05-09 07:08:29	<--	pa (~pa@unaffiliated/pa) has quit (Ping timeout: 240 seconds)
+2014-05-09 07:56:04	-->	pa (~pa@unaffiliated/pa) has joined #pyqt
+2014-05-09 08:02:01	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Read error: Connection reset by peer)
+2014-05-09 08:02:32	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:6443:6105:aae7:21cf) has joined #pyqt
+2014-05-09 08:06:38	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:6443:6105:aae7:21cf) has quit (Ping timeout: 246 seconds)
+2014-05-09 08:08:32	<--	Afrix (~Afrix4@2.26.57.105) has quit (Quit: Leaving)
+2014-05-09 08:09:04	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:6443:6105:aae7:21cf) has joined #pyqt
+2014-05-09 08:36:48	-->	JamesNZ (~james@fedora/JamesNZ) has joined #pyqt
+2014-05-09 08:48:54	<--	ninkotech_ (~duplo@static-84-242-87-186.net.upcbroadband.cz) has quit (Read error: Connection reset by peer)
+2014-05-09 08:49:13	-->	ninkotech_ (~duplo@static-84-242-87-186.net.upcbroadband.cz) has joined #pyqt
+2014-05-09 08:52:53	<--	sudobangbang (~chatzilla@75-151-97-182-Washington.hfc.comcastbusiness.net) has quit (Ping timeout: 240 seconds)
+2014-05-09 09:10:59	-->	sudobangbang (~chatzilla@172.56.33.158) has joined #pyqt
+2014-05-09 09:16:00	<--	ninkotech_ (~duplo@static-84-242-87-186.net.upcbroadband.cz) has quit (Read error: Connection reset by peer)
+2014-05-09 09:19:20	-->	ninkotech_ (~duplo@static-84-242-87-186.net.upcbroadband.cz) has joined #pyqt
+2014-05-09 09:20:54	-->	ninkotech__ (~duplo@static-84-242-87-186.net.upcbroadband.cz) has joined #pyqt
+2014-05-09 09:22:22	<--	ninkotech_ (~duplo@static-84-242-87-186.net.upcbroadband.cz) has quit (Read error: Connection reset by peer)
+2014-05-09 09:25:41	<--	sudobangbang (~chatzilla@172.56.33.158) has quit (Ping timeout: 240 seconds)
+2014-05-09 09:26:29	<--	ninkotech__ (~duplo@static-84-242-87-186.net.upcbroadband.cz) has quit (Read error: Connection reset by peer)
+2014-05-09 09:31:32	--	irc: disconnected from server

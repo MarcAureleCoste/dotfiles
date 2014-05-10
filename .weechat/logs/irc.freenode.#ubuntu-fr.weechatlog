@@ -1,0 +1,959 @@
+2014-05-07 17:20:10	-->	Fresh-George (~coste_m@60.247.46.112) has joined #ubuntu-fr
+2014-05-07 17:20:10	--	Topic for #ubuntu-fr is "Salon officiel de support francophone d'Ubuntu et ses déclinaisons | Règles : http://doc.ubuntu-fr.org/conduiteirc | UTF-8 | OffTopic: #ubuntu-fr-offtopic | Pas d'AwayNicks/Query/Flood/SMS +v (symbole « + » dans la liste d'utilisateurs) == aide confirmée"
+2014-05-07 17:20:10	--	Topic set by DisasteR (~DisasteR@ubuntu/member/pdpc.21for7.disaster) on Tue, 24 Dec 2013 21:44:55
+2014-05-07 17:20:10	--	Channel #ubuntu-fr: 178 nicks (2 ops, 0 voices, 176 normals)
+2014-05-07 17:20:10	--	PvNotice(ChanServ): Bienvenue sur le salon francophone officiel d'Ubuntu, il se peut que le canal nécessite d'être identifié sur freenode : http://doc.ubuntu-fr.org/freenode | Courtoisie et français correct exigés
+2014-05-07 17:20:10	--	URL for #ubuntu-fr: www.ubuntu-fr.org
+2014-05-07 17:20:13	--	Mode #ubuntu-fr [+Ccntf #ubuntu-fr-lire-le-topic]
+2014-05-07 17:20:13	--	Channel created on Sun, 26 Nov 2006 14:42:46
+2014-05-07 17:21:17	-->	spider-mario (~spidermar@mtg95-10-78-219-27-149.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-07 17:22:19	<--	Eloy_ (~luc@81.80.9.144) has quit (Remote host closed the connection)
+2014-05-07 17:38:18	-->	ass (~ass@166.94-241-81.adsl-dyn.isp.belgacom.be) has joined #ubuntu-fr
+2014-05-07 17:48:17	slystone	Pfff, ces petits nouveaux ils n'ont aucune patience.
+2014-05-07 17:51:07	<--	McPeter (~McPeter@ubuntu/member/pdpc.21for7.mcpeter) has quit (Ping timeout: 276 seconds)
+2014-05-07 17:51:56	<--	jerrytgarcia (~jerrytgar@119.95.168.107) has quit (Quit: WeeChat 0.4.3)
+2014-05-07 17:51:59	 *	Marmotte salue le slystone 
+2014-05-07 17:52:38	slystone	'lut Marmotte :)
+2014-05-07 17:58:46	-->	Ar0z (~Ar0z@wan1.bx.galilee.fr) has joined #ubuntu-fr
+2014-05-07 17:59:36	-->	Malarya (~opera@jem75-3-82-236-91-185.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-07 18:04:37	<--	push-me (~sylvain@LAubervilliers-151-11-12-123.w193-251.abo.wanadoo.fr) has quit (Quit: tchô)
+2014-05-07 18:06:23	<--	CaTtleyA (~CaTtleyA@185.24.142.82) has quit (Ping timeout: 256 seconds)
+2014-05-07 18:06:29	-->	push-me (~sylvain@LAubervilliers-151-11-12-123.w193-251.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-07 18:08:01	-->	CaTtleyA (~CaTtleyA@185.24.142.82) has joined #ubuntu-fr
+2014-05-07 18:09:56	<--	Ar0z (~Ar0z@wan1.bx.galilee.fr) has quit (Quit: bye)
+2014-05-07 18:12:37	-->	yalou (4faee413@gateway/web/freenode/ip.79.174.228.19) has joined #ubuntu-fr
+2014-05-07 18:13:33	-->	mephistope (~admine@96.34.14.81.rev.sfr.net) has joined #ubuntu-fr
+2014-05-07 18:17:35	-->	amj (~amj@79.132.236.133) has joined #ubuntu-fr
+2014-05-07 18:21:01	-->	ben2morrow__ (~ben2morro@ptrb-178-51-206-55.mobistar.be) has joined #ubuntu-fr
+2014-05-07 18:23:43	<--	TrollSawyer (~ben2morro@unaffiliated/ben2morrow) has quit (Ping timeout: 240 seconds)
+2014-05-07 18:31:25	-->	lysli (~lysli@std93-8-88-161-4-109.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-07 18:32:13	<--	Malarya (~opera@jem75-3-82-236-91-185.fbx.proxad.net) has left #ubuntu-fr
+2014-05-07 18:36:42	<--	jrm2k6 (~jrm2k6@c-ge1-4-3352.osr0-terez.net.telekom.hu) has quit (Remote host closed the connection)
+2014-05-07 18:45:49	<--	khor (~khor@cau33-3-82-233-71-243.fbx.proxad.net) has quit (Quit: Quitte)
+2014-05-07 18:47:32	-->	khor (~khor@cau33-3-82-233-71-243.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-07 18:59:03	<--	glebihan_ (~glebihan@unaffiliated/glebihan) has quit (Read error: Connection reset by peer)
+2014-05-07 18:59:10	<--	yalou (4faee413@gateway/web/freenode/ip.79.174.228.19) has quit (Ping timeout: 240 seconds)
+2014-05-07 19:02:35	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Ping timeout: 265 seconds)
+2014-05-07 19:03:52	-->	glebihan_ (~glebihan@unaffiliated/glebihan) has joined #ubuntu-fr
+2014-05-07 19:09:42	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has joined #ubuntu-fr
+2014-05-07 19:14:36	<--	^peter^ (~peter@30.0.168.125.sta.wbroadband.net.au) has quit
+2014-05-07 19:26:03	-->	Mikrop_ (~mikrop@office.bearstech.com) has joined #ubuntu-fr
+2014-05-07 19:26:48	-->	DaryL` (~dada@85.69.155.17) has joined #ubuntu-fr
+2014-05-07 19:28:35	-->	wowi_ (~wowi_@193.19.209.134) has joined #ubuntu-fr
+2014-05-07 19:29:08	-->	Eloy_ (~luc@pinel-recyclage.rain.fr) has joined #ubuntu-fr
+2014-05-07 19:29:59	<--	bilbo (b8a07d60@gateway/web/freenode/ip.184.160.125.96) has quit (Quit: Page closed)
+2014-05-07 19:30:09	<--	DaryL (~dada@85.69.155.17) has quit (Ping timeout: 252 seconds)
+2014-05-07 19:35:17	<--	rock_n_pol (~rocknpol@pdpc/supporter/monthlysilver/rocknpol) has quit (Quit: Pwêt)
+2014-05-07 19:36:04	<--	fneyret (~florian@neyret.fr) has quit (Remote host closed the connection)
+2014-05-07 19:39:03	-->	DaryL (~dada@85.69.155.17) has joined #ubuntu-fr
+2014-05-07 19:42:06	<--	DaryL` (~dada@85.69.155.17) has quit (Ping timeout: 255 seconds)
+2014-05-07 19:45:48	-->	flo1546796 (~flo154679@2001:660:5001:156:d53:bff9:7f6e:c57a) has joined #ubuntu-fr
+2014-05-07 19:45:48	<--	flo1546796 (~flo154679@2001:660:5001:156:d53:bff9:7f6e:c57a) has quit (Changing host)
+2014-05-07 19:45:48	-->	flo1546796 (~flo154679@unaffiliated/flo1546796) has joined #ubuntu-fr
+2014-05-07 19:46:07	-->	yalou (4faee413@gateway/web/freenode/ip.79.174.228.19) has joined #ubuntu-fr
+2014-05-07 19:47:58	-->	jrm2k6 (~jrm2k6@c-ge1-4-3352.osr0-terez.net.telekom.hu) has joined #ubuntu-fr
+2014-05-07 19:55:13	-->	jerrytgarcia (~jerrytgar@119.95.168.107) has joined #ubuntu-fr
+2014-05-07 19:55:37	<--	Qid (~Thunderbi@unaffiliated/qid) has quit (Quit: Qid)
+2014-05-07 19:56:29	--	NK_ is now known as NK\
+2014-05-07 19:56:38	<--	yalou (4faee413@gateway/web/freenode/ip.79.174.228.19) has quit (Quit: Page closed)
+2014-05-07 19:56:44	--	NK\ is now known as NK`
+2014-05-07 20:00:06	-->	Clampin__ (c2083e7e@gateway/web/freenode/ip.194.8.62.126) has joined #ubuntu-fr
+2014-05-07 20:02:25	-->	keflu (~zz@81.148.18.109.rev.sfr.net) has joined #ubuntu-fr
+2014-05-07 20:02:34	<--	keflu (~zz@81.148.18.109.rev.sfr.net) has left #ubuntu-fr
+2014-05-07 20:22:09	-->	rock_n_pol (~rocknpol@87-231-127-168.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-07 20:22:09	<--	rock_n_pol (~rocknpol@87-231-127-168.rev.numericable.fr) has quit (Changing host)
+2014-05-07 20:22:09	-->	rock_n_pol (~rocknpol@pdpc/supporter/monthlysilver/rocknpol) has joined #ubuntu-fr
+2014-05-07 20:29:55	<--	napnap (~napnap@95-141-110-114.as16211.net) has quit (Ping timeout: 252 seconds)
+2014-05-07 20:32:11	<--	push-me (~sylvain@LAubervilliers-151-11-12-123.w193-251.abo.wanadoo.fr) has quit (Quit: tchô)
+2014-05-07 20:33:03	-->	Hernou (~JEUNES@109.130.212.180) has joined #ubuntu-fr
+2014-05-07 20:44:07	-->	napnap (~napnap@95-141-110-114.as16211.net) has joined #ubuntu-fr
+2014-05-07 20:47:14	<--	Hernou (~JEUNES@109.130.212.180) has quit (Quit: Leaving.)
+2014-05-07 20:47:40	<--	Eloy_ (~luc@pinel-recyclage.rain.fr) has quit (Read error: Connection reset by peer)
+2014-05-07 20:48:52	-->	McPeter (~McPeter@ubuntu/member/pdpc.21for7.mcpeter) has joined #ubuntu-fr
+2014-05-07 20:50:24	-->	Gibb`s (~Leroy@ALille-553-1-159-220.w81-250.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-07 20:54:43	-->	oneveu (~Thunderbi@lpgpb59.lpgp.u-psud.fr) has joined #ubuntu-fr
+2014-05-07 20:55:58	napnap	Avec  EICIEL (gestionnaire grpahique ACL) j'ai des erreurs "Operation non supportée" lorsque je modifie les droits ACL d'un partage réseau (et les uid ne sont pas bon)...quelqu'un à résolu ces problèmes ?
+2014-05-07 20:59:59	Zic	napnap: essaie de le lancer en sudo (ou gksudo si appli graphique)
+2014-05-07 21:02:58	<--	wowi_ (~wowi_@193.19.209.134) has quit (Quit: Textual IRC Client: www.textualapp.com)
+2014-05-07 21:07:18	Marmotte	si partage réseau, je dirais plutôt de regarder la configuration des partages
+2014-05-07 21:07:38	Marmotte	(du genre vérifier qu'un simple chmod fonctionne sur un partage NFS, des tests du genre)
+2014-05-07 21:08:18	napnap	Zic, identique, il affiche ce message (bien qu'il arrive a appliqué les modifications, excepté qu'il se plante de uid...)
+2014-05-07 21:09:00	napnap	c'est un partage cifs (le support est expérimental en même temps..)
+2014-05-07 21:11:47	napnap	Marmotte, oui le chmod simple fonctionne
+2014-05-07 21:12:24	Marmotte	dans tous les cas, ça ressemble à un truc refusé coté serveur
+2014-05-07 21:12:33	Marmotte	soit parce que la configuration l'interdit, soit parce que ce n'est pas géré
+2014-05-07 21:13:06	-->	Eloy_ (~luc@81.80.9.144) has joined #ubuntu-fr
+2014-05-07 21:13:08	Marmotte	s'il se plante de uid, faut plutôt tester le chown que le chmod du coup ^^
+2014-05-07 21:13:36	napnap	Marmotte, en tout cas en ligne de commande avec setfacl ça marche...
+2014-05-07 21:13:43	Marmotte	ah
+2014-05-07 21:15:23	napnap	Marmotte, pour le uid par exemple j'ajoute un user du reseau , il me met le gid d'un de ses groupes  :-s
+2014-05-07 21:15:28	napnap	pas mal..
+2014-05-07 21:15:55	napnap	"user:5006:rwx" alors que 5006 est un groupe..
+2014-05-07 21:20:30	-->	john_doe_ks (~john-doe@unaffiliated/john-doe-ks/x-6971809) has joined #ubuntu-fr
+2014-05-07 21:21:46	napnap	bon en tout cas quand je fais les opérations sur les groupes, il ne se plante pas de gid...
+2014-05-07 21:21:55	--	Mode #ubuntu-fr [-b *!*@133.132-243-81.adsl-dyn.isp.belgacom.be] by uBOTu-fr
+2014-05-07 21:26:42	<--	john_doe_ks (~john-doe@unaffiliated/john-doe-ks/x-6971809) has left #ubuntu-fr
+2014-05-07 21:31:15	<--	oneveu (~Thunderbi@lpgpb59.lpgp.u-psud.fr) has quit (Quit: oneveu)
+2014-05-07 21:31:18	Ool	avec samba/cifs il doit y avoir des mappages de user non ?
+2014-05-07 21:31:35	-->	oneveu (~Thunderbi@lpgpb59.lpgp.u-psud.fr) has joined #ubuntu-fr
+2014-05-07 21:33:05	napnap	Ool, oui il prend les gid mappé
+2014-05-07 21:33:21	napnap	donc ça c bon...
+2014-05-07 21:33:48	Ool	par contre jamais essayé l'export via SMB/CIFS d'un répertoire avec ACL
+2014-05-07 21:33:54	Ool	on fait ça qu'en NFS ici
+2014-05-07 21:34:44	Ool	napnap: par contre tu dois avoir des trucs tout fait comme openfiler qui doivent savoir faire ça
+2014-05-07 21:34:48	-->	grab (~grab@ARouen-256-1-24-88.w90-51.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-07 21:34:49	napnap	ouais...ben ...oui...:-\
+2014-05-07 21:34:53	grab	bonjour
+2014-05-07 21:35:13	grab	Question vous utilisez quoi comme règle iptables pour ouvrir vos flux ftp sur vos serveurs ?
+2014-05-07 21:35:28	Ool	bof ftp j'ouvres pas :)
+2014-05-07 21:35:34	grab	je suis tomber sur http://www.cyberciti.biz/faq/iptables-open-ftp-port-21/ ca me semble un peu trop "ouvert"
+2014-05-07 21:35:41	<--	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has quit (Ping timeout: 245 seconds)
+2014-05-07 21:35:54	grab	Ool, idem habituellement
+2014-05-07 21:36:02	Ool	grab: mais ça ressemble au truc normal
+2014-05-07 21:36:06	grab	le problème de ftp c'est qu'il redirige le flux sur un autre port par la suite
+2014-05-07 21:36:18	Ool	faut aussi voir FTP passif ou actif
+2014-05-07 21:36:27	napnap	Ool, yep, j'aurais quand même voulu que ça soit intégré à nautilus ( c pr les user)
+2014-05-07 21:37:56	-->	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has joined #ubuntu-fr
+2014-05-07 21:38:04	Ool	napnap: ba sinon tu t'occupes pas trop du groupe owner (ou tu le force)
+2014-05-07 21:38:10	<--	jrm2k6 (~jrm2k6@c-ge1-4-3352.osr0-terez.net.telekom.hu) has quit (Remote host closed the connection)
+2014-05-07 21:39:58	Ool	sinon j'ai pas essayé non plus de gérer graphiquement les ACL
+2014-05-07 21:40:14	Ool	je fais ça à coup de setfacl
+2014-05-07 21:40:33	Marmotte	grab: soit tu laisses une plage de ports ouverte, et tu autorises le mode passif sur cette plage, soit tu n'autorises que le mode actif
+2014-05-07 21:40:45	Marmotte	pas vraiment d'autre solution possible :)
+2014-05-07 21:41:13	Marmotte	(ou sinon, tu n'utilises pas de port FTP, c'est encore mieux :P)
+2014-05-07 21:41:32	grab	Marmotte, je viens de réaliser en plus que ip_conntrack_ftp n'est pas présent sur des conteneurs openvz ...
+2014-05-07 21:41:57	Marmotte	bah ça doit bien pouvoir s'ajouter, ça
+2014-05-07 21:42:06	Ool	par contre pas sur que ça marche :)
+2014-05-07 21:42:34	Ool	sur un vks (donc un conteneur openVZ) activer UFW et fallait tout réinstaller
+2014-05-07 21:43:07	-->	jrm2k6 (~jrm2k6@c-ge1-4-3352.osr0-terez.net.telekom.hu) has joined #ubuntu-fr
+2014-05-07 21:43:47	grab	De toute facon la machine est en cours d'installation j'ai  pas énormement de chose et j'ai fait une doc d'installation, plutôt que de faire le foufou, si jamais ca ne tourne pas je vais réinstaller un ubuntu via kvm et zou
+2014-05-07 21:54:13	--	Mode #ubuntu-fr [+o piqure] by ChanServ
+2014-05-07 21:54:14	--	Mode #ubuntu-fr [-bo *!*@109.129.206.124 piqure] by piqure
+2014-05-07 21:56:10	<--	loup (6dc989a6@gateway/web/freenode/ip.109.201.137.166) has quit (Ping timeout: 240 seconds)
+2014-05-07 21:57:25	-->	davlefouAMD (~david@41.225.113.103) has joined #ubuntu-fr
+2014-05-07 22:14:26	-->	NecessaryEvil (~42@188.189.64.160) has joined #ubuntu-fr
+2014-05-07 22:17:06	<--	flo1546796 (~flo154679@unaffiliated/flo1546796) has quit (Quit: Quitte)
+2014-05-07 22:17:15	grab	Ool, bon bas c'est pas gagner le template est une debian et je n'ai pas la variable dans le sys_config
+2014-05-07 22:18:18	<--	napnap (~napnap@95-141-110-114.as16211.net) has quit (Quit: Quitte)
+2014-05-07 22:19:05	-->	Sithlord (~sithlord@unaffiliated/sithlord) has joined #ubuntu-fr
+2014-05-07 22:26:39	-->	Biaise (~biaise@unaffiliated/biaise) has joined #ubuntu-fr
+2014-05-07 22:27:25	<--	NecessaryEvil (~42@188.189.64.160) has quit (Remote host closed the connection)
+2014-05-07 22:28:52	-->	napnap (~napnap@95-141-110-114.as16211.net) has joined #ubuntu-fr
+2014-05-07 22:32:28	-->	NecessaryEvil (~42@109.236.138.105) has joined #ubuntu-fr
+2014-05-07 22:36:58	-->	tobiasBora (~leo@2a01:e35:2eb9:70e0:6991:e5f6:c564:e9c) has joined #ubuntu-fr
+2014-05-07 22:45:13	-->	hid (~hid@90.90.77.86.rev.sfr.net) has joined #ubuntu-fr
+2014-05-07 22:45:13	<--	hid (~hid@90.90.77.86.rev.sfr.net) has quit (Changing host)
+2014-05-07 22:45:13	-->	hid (~hid@unaffiliated/hid) has joined #ubuntu-fr
+2014-05-07 22:45:41	<--	denis_ (~denis@77.109.126.12) has quit (Remote host closed the connection)
+2014-05-07 22:45:53	-->	Twoll (~Twoll@AGrenoble-552-1-247-99.w92-129.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-07 22:45:53	<--	Twoll (~Twoll@AGrenoble-552-1-247-99.w92-129.abo.wanadoo.fr) has quit (Changing host)
+2014-05-07 22:45:53	-->	Twoll (~Twoll@unaffiliated/Twoll) has joined #ubuntu-fr
+2014-05-07 22:46:23	<--	NecessaryEvil (~42@109.236.138.105) has quit (Quit: Colloquy for iPhone - http://colloquy.mobi)
+2014-05-07 22:47:58	<--	oneveu (~Thunderbi@lpgpb59.lpgp.u-psud.fr) has quit (Quit: oneveu)
+2014-05-07 23:01:55	<--	Dazax (~Dazax@195.46.234.215) has quit (Remote host closed the connection)
+2014-05-07 23:03:19	<--	CaTtleyA (~CaTtleyA@185.24.142.82) has quit (Ping timeout: 256 seconds)
+2014-05-07 23:04:25	<--	jrm2k6 (~jrm2k6@c-ge1-4-3352.osr0-terez.net.telekom.hu) has quit (Remote host closed the connection)
+2014-05-07 23:04:28	-->	papachan (~papachan@190.157.122.94) has joined #ubuntu-fr
+2014-05-07 23:05:40	<--	Clampin__ (c2083e7e@gateway/web/freenode/ip.194.8.62.126) has quit (Ping timeout: 240 seconds)
+2014-05-07 23:06:22	<--	hid (~hid@unaffiliated/hid) has quit (Quit: Quitte)
+2014-05-07 23:06:32	-->	hid (~hid@90.90.77.86.rev.sfr.net) has joined #ubuntu-fr
+2014-05-07 23:06:32	<--	hid (~hid@90.90.77.86.rev.sfr.net) has quit (Changing host)
+2014-05-07 23:06:32	-->	hid (~hid@unaffiliated/hid) has joined #ubuntu-fr
+2014-05-07 23:06:38	<--	fredix (~fred@cal69-1-82-232-7-198.fbx.proxad.net) has quit (Quit: Quitte)
+2014-05-07 23:06:46	<--	Shenril (~Shenril@182-167-196-152f1.osk1.eonet.ne.jp) has quit (Quit: WeeChat 0.4.3)
+2014-05-07 23:13:59	-->	FredZi (~Fred@221.224-246-81.adsl-dyn.isp.belgacom.be) has joined #ubuntu-fr
+2014-05-07 23:14:22	--	Mode #ubuntu-fr [+o piqure] by ChanServ
+2014-05-07 23:14:24	--	Mode #ubuntu-fr [+b *!*@221.224-246-81.adsl-dyn.isp.belgacom.be] by piqure
+2014-05-07 23:14:33	--	Mode #ubuntu-fr [-o piqure] by piqure
+2014-05-07 23:16:34	-->	jrm2k6 (~jrm2k6@78-131-36-37.pool.digikabel.hu) has joined #ubuntu-fr
+2014-05-07 23:19:49	<--	spider-mario (~spidermar@mtg95-10-78-219-27-149.fbx.proxad.net) has quit (Read error: Connection reset by peer)
+2014-05-07 23:20:51	grab	Ool, Marmotte ok je viens de résoudre, en faite c'est tout bête
+2014-05-07 23:21:07	grab	le conteneur openvz n'avait pas les modules relatifs à la conntrack et conntrack_ftp de loadé
+2014-05-07 23:21:29	grab	il fallait seulement ajouter les modules dans le fichier /etc/vz.conf de la machine hôte et de rebooter le conteneur
+2014-05-07 23:22:30	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-07 23:22:31	<--	FredZi (~Fred@221.224-246-81.adsl-dyn.isp.belgacom.be) has left #ubuntu-fr (requested by uBOTu-fr (touched))
+2014-05-07 23:27:16	<--	napnap (~napnap@95-141-110-114.as16211.net) has quit (Quit: Quitte)
+2014-05-07 23:29:43	-->	Almtesh (~Almtesh@unaffiliated/almtesh) has joined #ubuntu-fr
+2014-05-07 23:31:16	-->	fneyret (~florian@neyret.fr) has joined #ubuntu-fr
+2014-05-07 23:38:06	<--	grab (~grab@ARouen-256-1-24-88.w90-51.abo.wanadoo.fr) has quit (Quit: Quitte)
+2014-05-07 23:47:31	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-07 23:49:44	Twoll	Yeah, un belge en moins !
+2014-05-07 23:49:45	Twoll	:p
+2014-05-07 23:50:08	<--	RanX_XeroX (~RanX_Xero@unaffiliated/ranx-xerox/x-1471846) has quit (Quit: ☠)
+2014-05-07 23:57:15	-->	wowi_ (~wowi_@4aa54-7-78-230-73-76.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 00:00:02	<--	Almtesh (~Almtesh@unaffiliated/almtesh) has quit (Remote host closed the connection)
+2014-05-08 00:00:07	-->	Spike29 (~SpiKe@unaffiliated/spike29) has joined #ubuntu-fr
+2014-05-08 00:02:40	-->	Oleti (~Jack@sim31-1-88-176-210-164.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 00:04:00	<--	Norore (c3dc3e5a@gateway/web/freenode/ip.195.220.62.90) has quit (Quit: Page closed)
+2014-05-08 00:05:55	<--	ass (~ass@166.94-241-81.adsl-dyn.isp.belgacom.be) has quit (Quit: Quitte)
+2014-05-08 00:08:57	<--	zulf (~sylvain@195.190.27.238) has quit (Quit: Quitte)
+2014-05-08 00:12:00	-->	froumi1 (~froumi@37-4-190-109.dsl.ovh.fr) has joined #ubuntu-fr
+2014-05-08 00:12:38	<--	plieuse (~plieuse@portail-captif.ipgp.fr) has quit (Quit: Quitte)
+2014-05-08 00:13:25	<--	DaryL (~dada@85.69.155.17) has quit
+2014-05-08 00:14:56	-->	fredix (~fred@cal69-1-82-232-7-198.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 00:14:57	<--	froumi (~froumi@37-4-190-109.dsl.ovh.fr) has quit (Ping timeout: 252 seconds)
+2014-05-08 00:15:26	-->	plieuse (~plieuse@portail-captif.ipgp.fr) has joined #ubuntu-fr
+2014-05-08 00:17:23	-->	Calinou (~Calinou@unaffiliated/calinou) has joined #ubuntu-fr
+2014-05-08 00:17:47	-->	ichigo-roku (~ichigo-ro@151.241.97.84.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 00:20:21	<--	lysli (~lysli@std93-8-88-161-4-109.fbx.proxad.net) has quit (Remote host closed the connection)
+2014-05-08 00:29:08	-->	Fresh (~Fresh@cust-142-102-111-94.dyn.as47377.net) has joined #ubuntu-fr
+2014-05-08 00:29:09	<--	Fresh (~Fresh@cust-142-102-111-94.dyn.as47377.net) has quit (Changing host)
+2014-05-08 00:29:09	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-08 00:32:16	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 240 seconds)
+2014-05-08 00:34:33	-->	froumi2 (~froumi@37-4-190-109.dsl.ovh.fr) has joined #ubuntu-fr
+2014-05-08 00:37:13	<--	froumi1 (~froumi@37-4-190-109.dsl.ovh.fr) has quit (Ping timeout: 250 seconds)
+2014-05-08 00:38:35	-->	glebelg (~glebelg@unaffiliated/glebelg) has joined #ubuntu-fr
+2014-05-08 00:39:46	-->	bl0fish (~bl0fish@static-89-94-212-121.axione.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-08 00:40:53	<--	Kaz (~kaz@ANantes-651-1-68-42.w2-0.abo.wanadoo.fr) has quit (Remote host closed the connection)
+2014-05-08 00:42:16	<--	plieuse (~plieuse@portail-captif.ipgp.fr) has quit (Quit: Quitte)
+2014-05-08 00:42:31	<--	wowi_ (~wowi_@4aa54-7-78-230-73-76.fbx.proxad.net) has quit (Ping timeout: 240 seconds)
+2014-05-08 00:46:29	-->	wowi_ (~wowi_@193.19.209.134) has joined #ubuntu-fr
+2014-05-08 00:49:17	-->	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-08 00:49:28	Ubu	salut
+2014-05-08 00:50:43	amj	salut le roi ubu (tu connais peut-être la chanson)
+2014-05-08 00:51:36	<--	gaby_wald (~gaby_wald@195.25.39.117) has quit (Read error: Connection reset by peer)
+2014-05-08 00:52:24	amj	*le père ubu ;)
+2014-05-08 00:53:01	<--	Sithlord (~sithlord@unaffiliated/sithlord) has quit (Quit: Sithlord)
+2014-05-08 00:53:26	Ubu	ah non :/
+2014-05-08 00:56:34	-->	Sithlord (~sithlord@unaffiliated/sithlord) has joined #ubuntu-fr
+2014-05-08 00:57:19	bl0fish	bonjour,
+2014-05-08 00:57:26	bl0fish	lors un transfert avec scp, la checksum est censé rester identique entre le fichier d'origine et la copie ?
+2014-05-08 00:59:15	--	clampin_ is now known as clampin
+2014-05-08 01:01:15	amj	bl0fish: à priori oui
+2014-05-08 01:02:58	bl0fish	merci
+2014-05-08 01:06:52	Oleti	je dirais meme, quelque soit la façon de faire le transfert ...
+2014-05-08 01:09:35	<--	Spike29 (~SpiKe@unaffiliated/spike29) has quit (Quit: bye-bye)
+2014-05-08 01:09:47	-->	cyberurier (~cyberurie@cha85-1-78-231-34-188.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 01:15:00	<--	jodh (~james@ubuntu/member/jodh) has quit (Quit: WeeChat 0.4.2)
+2014-05-08 01:17:21	-->	Almtesh (~Almtesh@unaffiliated/almtesh) has joined #ubuntu-fr
+2014-05-08 01:18:15	-->	carbon1 (~carbon@AStrasbourg-651-1-78-87.w86-213.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-08 01:21:42	<--	cyberurier (~cyberurie@cha85-1-78-231-34-188.fbx.proxad.net) has quit (Quit: bye g33ks ++ beback..)
+2014-05-08 01:26:15	-->	Spike29 (~SpiKe@unaffiliated/spike29) has joined #ubuntu-fr
+2014-05-08 01:26:21	<--	Mikrop_ (~mikrop@office.bearstech.com) has quit (Ping timeout: 255 seconds)
+2014-05-08 01:30:42	-->	lysli (~lysli@std93-8-88-161-4-109.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 01:31:08	Twoll	+1 xD
+2014-05-08 01:34:07	<--	rock_n_pol (~rocknpol@pdpc/supporter/monthlysilver/rocknpol) has quit (Ping timeout: 240 seconds)
+2014-05-08 01:41:31	-->	Mikerhinos (~quassel@76.145.0.93.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 01:41:57	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu)
+2014-05-08 01:42:15	<--	bl0fish (~bl0fish@static-89-94-212-121.axione.abo.bbox.fr) has left #ubuntu-fr ("cd /dev/null")
+2014-05-08 01:42:44	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 01:44:02	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Client Quit)
+2014-05-08 01:44:23	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 01:46:11	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Client Quit)
+2014-05-08 01:46:18	<--	hid (~hid@unaffiliated/hid) has quit (Quit: Quitte)
+2014-05-08 01:46:29	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 01:46:33	-->	rock_n_pol (~rocknpol@pdpc/supporter/monthlysilver/rocknpol) has joined #ubuntu-fr
+2014-05-08 01:47:06	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Client Quit)
+2014-05-08 01:50:38	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 01:52:45	-->	pierre80 (~pierre@78.250.230.28) has joined #ubuntu-fr
+2014-05-08 01:54:56	<--	glebelg (~glebelg@unaffiliated/glebelg) has quit (Quit: Leaving.)
+2014-05-08 01:58:05	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu)
+2014-05-08 02:07:15	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 02:08:16	-->	Carpette (~Carpette@can59-4-82-240-116-149.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 02:09:24	<--	tobiasBora (~leo@2a01:e35:2eb9:70e0:6991:e5f6:c564:e9c) has quit (Ping timeout: 246 seconds)
+2014-05-08 02:14:29	-->	alcidi (~alcidi@2a01:e35:2f6a:1ae0:c5e0:fd4a:4116:c04) has joined #ubuntu-fr
+2014-05-08 02:14:38	alcidi	salutatous
+2014-05-08 02:14:56	-->	skoiz (~skoiz@AToulouse-254-1-128-31.w86-206.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-08 02:16:36	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu)
+2014-05-08 02:16:58	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 02:26:28	<--	jmvanel (~jmvanel@78.193.21.40) has quit (Ping timeout: 255 seconds)
+2014-05-08 02:29:25	-->	SADMAN_ (~SADMAN@sta21-3-82-244-159-141.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 02:34:36	<--	Biaise (~biaise@unaffiliated/biaise) has quit (Ping timeout: 246 seconds)
+2014-05-08 02:36:23	<--	SADMAN_ (~SADMAN@sta21-3-82-244-159-141.fbx.proxad.net) has quit (Quit: Quitte)
+2014-05-08 02:39:21	-->	cyber37 (~cyber37@43.221.91.92.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 02:40:48	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu)
+2014-05-08 02:46:34	-->	tobiasBora (~leo@tok69-5-82-235-151-14.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 02:48:00	-->	Biaise (~biaise@unaffiliated/biaise) has joined #ubuntu-fr
+2014-05-08 02:51:17	<--	alcidi (~alcidi@2a01:e35:2f6a:1ae0:c5e0:fd4a:4116:c04) has quit (Quit: Leaving.)
+2014-05-08 02:55:22	-->	solsTiCe (~solstice@hen56-2-78-215-249-181.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 02:55:22	<--	solsTiCe (~solstice@hen56-2-78-215-249-181.fbx.proxad.net) has quit (Changing host)
+2014-05-08 02:55:22	-->	solsTiCe (~solstice@unaffiliated/solstice) has joined #ubuntu-fr
+2014-05-08 02:57:16	solsTiCe	lu. j'ai fait la mise à jour de 13.10 en 14.04. mais je n'ai aucun papier peint avec un trusty thra. que des salamandres. comment je fais pour avoir des chamois
+2014-05-08 02:57:19	solsTiCe	?
+2014-05-08 03:03:25	<--	pierre80 (~pierre@78.250.230.28) has quit (Quit: shutdown)
+2014-05-08 03:04:57	solsTiCe	ah y'en a pas
+2014-05-08 03:05:46	-->	mezen (~me@unaffiliated/mezen) has joined #ubuntu-fr
+2014-05-08 03:08:33	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 03:10:08	-->	jmvanel (~jmvanel@175.0.88.79.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 03:11:22	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Client Quit)
+2014-05-08 03:12:04	-->	Azerka (6dbec13c@gateway/web/freenode/ip.109.190.193.60) has joined #ubuntu-fr
+2014-05-08 03:13:36	-->	alcidi (~alcidi@2a01:e35:2f6a:1ae0:5421:a3b9:ca1e:e31c) has joined #ubuntu-fr
+2014-05-08 03:13:43	alcidi	yop
+2014-05-08 03:14:09	Azerka	Salut !
+2014-05-08 03:16:32	<--	mezen (~me@unaffiliated/mezen) has quit (Remote host closed the connection)
+2014-05-08 03:17:47	<--	Azerka (6dbec13c@gateway/web/freenode/ip.109.190.193.60) has quit (Quit: Page closed)
+2014-05-08 03:19:27	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 03:21:57	-->	Freezby (~koolhl@dec69-h03-87-88-214-74.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-08 03:26:07	-->	mezen (~me@unaffiliated/mezen) has joined #ubuntu-fr
+2014-05-08 03:31:03	<--	tobiasBora (~leo@tok69-5-82-235-151-14.fbx.proxad.net) has quit (Ping timeout: 265 seconds)
+2014-05-08 03:32:57	<--	Calinou (~Calinou@unaffiliated/calinou) has quit (Ping timeout: 252 seconds)
+2014-05-08 03:33:32	-->	Freshgale (~Fresh@cust-142-102-111-94.dyn.as47377.net) has joined #ubuntu-fr
+2014-05-08 03:33:32	<--	Freshgale (~Fresh@cust-142-102-111-94.dyn.as47377.net) has quit (Changing host)
+2014-05-08 03:33:32	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-08 03:35:20	-->	Fresh_ (~Fresh@91.176.63.9) has joined #ubuntu-fr
+2014-05-08 03:35:20	<--	Fresh_ (~Fresh@91.176.63.9) has quit (Changing host)
+2014-05-08 03:35:20	-->	Fresh_ (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-08 03:35:56	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 240 seconds)
+2014-05-08 03:37:55	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 250 seconds)
+2014-05-08 03:39:20	-->	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 03:41:47	-->	tobiasBora (~leo@2a01:e35:2eb9:70e0:6991:e5f6:c564:e9c) has joined #ubuntu-fr
+2014-05-08 03:43:46	-->	Freshgale (~Fresh@91.176.63.9) has joined #ubuntu-fr
+2014-05-08 03:43:46	<--	Freshgale (~Fresh@91.176.63.9) has quit (Changing host)
+2014-05-08 03:43:47	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-08 03:45:09	<--	cyber37 (~cyber37@43.221.91.92.rev.sfr.net) has quit (Quit: Lost terminal)
+2014-05-08 03:45:27	-->	Calinou (~Calinou@unaffiliated/calinou) has joined #ubuntu-fr
+2014-05-08 03:46:14	-->	Fresh (~Fresh@91.176.63.9) has joined #ubuntu-fr
+2014-05-08 03:46:15	<--	Fresh (~Fresh@91.176.63.9) has quit (Changing host)
+2014-05-08 03:46:15	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-08 03:46:38	<--	skoiz (~skoiz@AToulouse-254-1-128-31.w86-206.abo.wanadoo.fr) has quit (Read error: Connection reset by peer)
+2014-05-08 03:47:35	<--	manuscle (~manuscle@aqu33-4-82-233-55-206.fbx.proxad.net) has quit (Quit: Ex-Chat)
+2014-05-08 03:47:49	<--	Fresh_ (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 276 seconds)
+2014-05-08 03:49:36	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 258 seconds)
+2014-05-08 03:51:46	-->	Mimilus (~mimilus@ADijon-256-1-38-238.w81-51.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-08 03:51:51	-->	psydroid (~psydroid@unaffiliated/psydroid) has joined #ubuntu-fr
+2014-05-08 03:52:00	<--	Freezby (~koolhl@dec69-h03-87-88-214-74.dsl.sta.abo.bbox.fr) has quit (Quit: Lost terminal)
+2014-05-08 03:53:24	-->	cyber37 (~cyber37@43.221.91.92.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 03:57:03	-->	Freezby (~koolhl@dec69-h03-87-88-214-74.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-08 03:58:42	<--	solsTiCe (~solstice@unaffiliated/solstice) has quit (Ping timeout: 255 seconds)
+2014-05-08 04:05:00	<--	clampin (~david@91.176.63.173) has quit (Ping timeout: 255 seconds)
+2014-05-08 04:10:07	<--	alcidi (~alcidi@2a01:e35:2f6a:1ae0:5421:a3b9:ca1e:e31c) has left #ubuntu-fr
+2014-05-08 04:10:51	<--	psydroid (~psydroid@unaffiliated/psydroid) has quit (Read error: Connection reset by peer)
+2014-05-08 04:11:20	<--	wowi_ (~wowi_@193.19.209.134) has quit (Ping timeout: 240 seconds)
+2014-05-08 04:16:04	<--	mezen (~me@unaffiliated/mezen) has quit (Quit: Quitte)
+2014-05-08 04:17:57	-->	psydroid (~psydroid@unaffiliated/psydroid) has joined #ubuntu-fr
+2014-05-08 04:18:08	-->	epyfro (~riquet@2a02-8422-1760-ef00-017d-8b79-ae5a-c62e.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 04:18:26	<--	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has quit (Remote host closed the connection)
+2014-05-08 04:18:45	<--	epyfro (~riquet@2a02-8422-1760-ef00-017d-8b79-ae5a-c62e.rev.sfr.net) has quit (Client Quit)
+2014-05-08 04:20:43	<--	Almtesh (~Almtesh@unaffiliated/almtesh) has quit (Remote host closed the connection)
+2014-05-08 04:21:04	-->	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 04:26:07	<--	lysli (~lysli@std93-8-88-161-4-109.fbx.proxad.net) has quit (Remote host closed the connection)
+2014-05-08 04:26:19	-->	solsTiCe (~solstice@hen56-2-78-215-249-181.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 04:26:20	<--	solsTiCe (~solstice@hen56-2-78-215-249-181.fbx.proxad.net) has quit (Changing host)
+2014-05-08 04:26:20	-->	solsTiCe (~solstice@unaffiliated/solstice) has joined #ubuntu-fr
+2014-05-08 04:29:52	<--	moza (~moza@dynamic.1.16.34dbfd721d80.0236994134c.afb.bredband2.com) has quit (Quit: do widzenia)
+2014-05-08 04:35:59	<--	solsTiCe (~solstice@unaffiliated/solstice) has quit (Quit: Ex-Chat)
+2014-05-08 04:38:36	-->	hid (~quassel@90.90.77.86.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 04:38:37	<--	hid (~quassel@90.90.77.86.rev.sfr.net) has quit (Changing host)
+2014-05-08 04:38:37	-->	hid (~quassel@unaffiliated/hid) has joined #ubuntu-fr
+2014-05-08 04:43:27	<--	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has quit (Read error: Connection reset by peer)
+2014-05-08 04:43:44	<--	hid (~quassel@unaffiliated/hid) has quit (Read error: Connection reset by peer)
+2014-05-08 04:44:28	-->	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-08 04:45:17	<--	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has quit (Remote host closed the connection)
+2014-05-08 04:47:52	-->	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 04:52:50	<--	tobiasBora (~leo@2a01:e35:2eb9:70e0:6991:e5f6:c564:e9c) has quit (Ping timeout: 246 seconds)
+2014-05-08 04:54:04	<--	cyber37 (~cyber37@43.221.91.92.rev.sfr.net) has quit (Quit: Lost terminal)
+2014-05-08 04:55:34	<--	ichigo-roku (~ichigo-ro@151.241.97.84.rev.sfr.net) has quit (Quit: Leaving)
+2014-05-08 18:26:45	-->	Fresh-George (~coste_m@60.247.46.112) has joined #ubuntu-fr
+2014-05-08 18:26:45	--	Topic for #ubuntu-fr is "Salon officiel de support francophone d'Ubuntu et ses déclinaisons | Règles : http://doc.ubuntu-fr.org/conduiteirc | UTF-8 | OffTopic: #ubuntu-fr-offtopic | Pas d'AwayNicks/Query/Flood/SMS +v (symbole « + » dans la liste d'utilisateurs) == aide confirmée"
+2014-05-08 18:26:45	--	Topic set by DisasteR (~DisasteR@ubuntu/member/pdpc.21for7.disaster) on Tue, 24 Dec 2013 21:44:55
+2014-05-08 18:26:45	--	Channel #ubuntu-fr: 170 nicks (2 ops, 0 voices, 168 normals)
+2014-05-08 18:26:45	--	PvNotice(ChanServ): Bienvenue sur le salon francophone officiel d'Ubuntu, il se peut que le canal nécessite d'être identifié sur freenode : http://doc.ubuntu-fr.org/freenode | Courtoisie et français correct exigés
+2014-05-08 18:26:45	--	URL for #ubuntu-fr: www.ubuntu-fr.org
+2014-05-08 18:26:48	--	Mode #ubuntu-fr [+Ccntf #ubuntu-fr-lire-le-topic]
+2014-05-08 18:26:48	--	Channel created on Sun, 26 Nov 2006 14:42:46
+2014-05-08 18:27:11	Jafura	<nW44b> dans ton ~/thunderbird il y a un fichier profiles.ini et des dossiers genre azerty.profile. Regarde ce qu'il y a dans le doiier Mail de ces dossiers et vérifie quel est ton bon profil. ← Un seul de ces dossiers a un dossier Mail qui contient mes dossiers locaux : 1i1c9t1s.default
+2014-05-08 18:27:40	nW44b	et il est bien renseigné dans profiles.ini ?
+2014-05-08 18:27:58	Jafura	Ensuite vérifie dans le fichier profiles.ini que ce soit le bon profil indiqué à la ligne : Path= ← Je lis : Path=1i1c9t1s.default Ça colle, le problème est ailleurs.
+2014-05-08 18:27:59	nW44b	j'imagine mais bon …
+2014-05-08 18:28:03	nW44b	ok
+2014-05-08 18:29:03	Jafura	Je peux essayer de créer un nouveau compte sur l’OS et de lancer Thunderbird à partir de ce nouveau compte.
+2014-05-08 18:29:53	nW44b	oui, ça va probablement marcher
+2014-05-08 18:30:31	<--	theophanev (4e741dac@gateway/web/freenode/ip.78.116.29.172) has left #ubuntu-fr
+2014-05-08 18:32:16	Jafura	Il y a aussi un dossier Crash Reports. Contiendrait-il des infos utiles ?
+2014-05-08 18:33:15	nW44b	regarde la date des fichiers
+2014-05-08 18:33:54	nW44b	mais ça n'a pas l'air très utile ces fichiers
+2014-05-08 18:34:02	-->	Biaise (~biaise@unaffiliated/biaise) has joined #ubuntu-fr
+2014-05-08 18:34:17	Jafura	Un nouvel arrêt/redémarrage de Thunderbird (le 6me ou le 7me, peut-être, j’ai arrêté de les compter) et maintenant ça marche. La cause du problème qui n’en est plus un jusqu’à la prochaine fois restera un mystère.
+2014-05-08 18:34:24	Jafura	Merci quand-même.
+2014-05-08 18:35:28	nW44b	c'est chelou
+2014-05-08 18:37:03	<--	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has quit (Quit: ciao !)
+2014-05-08 18:37:59	-->	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-08 18:44:02	<--	Eloy_ (~luc@pinel-recyclage.rain.fr) has quit (Remote host closed the connection)
+2014-05-08 18:45:41	<--	jodh (~james@ubuntu/member/jodh) has quit (Quit: WeeChat 0.4.2)
+2014-05-08 18:47:38	-->	jodh (~james@ubuntu/member/jodh) has joined #ubuntu-fr
+2014-05-08 18:48:06	-->	jmvanel (~jmvanel@175.0.88.79.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 18:50:02	-->	Tr4sK_ (~tr4sk@212-83-145-37.rev.poneytelecom.eu) has joined #ubuntu-fr
+2014-05-08 18:50:46	-->	zwox_ (~zwox@unamed.org) has joined #ubuntu-fr
+2014-05-08 18:50:47	-->	NK`_ (~NK@atomicplanet.eu) has joined #ubuntu-fr
+2014-05-08 18:50:52	<--	glebihan__ (~glebihan@unaffiliated/glebihan) has quit (Ping timeout: 256 seconds)
+2014-05-08 18:51:25	<--	]R[ (Gonzo@82.239.45.133) has quit (Disconnected by services)
+2014-05-08 18:51:25	-->	[R]7 (Gonzo@2a01:e35:2ef2:d850:e350:e350:e350:e350) has joined #ubuntu-fr
+2014-05-08 18:54:08	-->	jerrytgarcia (~jerrytgar@119.95.168.107) has joined #ubuntu-fr
+2014-05-08 18:54:21	-->	_rageberry (~rageberry@ram94-12-78-234-202-177.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 18:54:49	-->	piti_ (~piti@home.ouahpiti.info) has joined #ubuntu-fr
+2014-05-08 18:54:52	<--	slystone (~pi@unaffiliated/slystone) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:54:52	<--	Tr4sK (~tr4sk@212.83.145.37) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:54:54	<--	MaTTuX_ (~espion007@unaffiliated/mattux) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:54:54	<--	rageberry (~rageberry@ram94-12-78-234-202-177.fbx.proxad.net) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:54:55	<--	WaVeR (~Cobra@ubuntu/member/waver) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:54:55	<--	piti (~piti@pdpc/supporter/active/piti) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:54:56	<--	zwox (~zwox@unaffiliated/zwox) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:54:56	<--	NK` (~NK@atomicplanet.eu) has quit (Ping timeout: 252 seconds)
+2014-05-08 18:55:13	<--	jmvanel (~jmvanel@175.0.88.79.rev.sfr.net) has quit (Remote host closed the connection)
+2014-05-08 18:55:26	-->	WaVeR (~Cobra@ubuntu/member/waver) has joined #ubuntu-fr
+2014-05-08 18:55:59	-->	slystone (~pi@mou76-1-82-236-56-3.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 18:56:10	-->	MaTTuX_ (~espion007@unaffiliated/mattux) has joined #ubuntu-fr
+2014-05-08 18:56:41	-->	Eloy_ (~luc@pinel-recyclage.rain.fr) has joined #ubuntu-fr
+2014-05-08 19:03:48	-->	Snarf_ (~snarf@unaffiliated/snarf) has joined #ubuntu-fr
+2014-05-08 19:03:55	-->	ZuZuD_ (~root@AAubervilliers-151-1-45-35.w83-114.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-08 19:05:24	-->	jmvanel (~jmvanel@175.0.88.79.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 19:05:29	<--	Calinou (~Calinou@unaffiliated/calinou) has quit (Remote host closed the connection)
+2014-05-08 19:07:28	-->	Morksvar` (~Morksvard@91.224.149.141) has joined #ubuntu-fr
+2014-05-08 19:09:44	-->	DzAirmaX_ (~AirmaX@unaffiliated/dzairmax) has joined #ubuntu-fr
+2014-05-08 19:11:36	-->	vov_ (~vov@89-156-7-146.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-08 19:14:06	<--	floown (~quassel@unaffiliated/fanchon) has quit (Quit: No Ping reply in 180 seconds.)
+2014-05-08 19:15:28	-->	floown (~quassel@245.67.82.79.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 19:15:28	<--	floown (~quassel@245.67.82.79.rev.sfr.net) has quit (Changing host)
+2014-05-08 19:15:28	-->	floown (~quassel@unaffiliated/fanchon) has joined #ubuntu-fr
+2014-05-08 19:16:35	-->	clampin__ (c2083e7e@gateway/web/freenode/ip.194.8.62.126) has joined #ubuntu-fr
+2014-05-08 19:18:42	<--	nosheep (~gregory@2001:41d0:fe2e:fb00:f46c:1677:1db3:878f) has quit (Quit: Quitte)
+2014-05-08 19:21:45	-->	nosheep (~gregory@2001:41d0:fe2e:fb00:f46c:1677:1db3:878f) has joined #ubuntu-fr
+2014-05-08 19:22:23	<--	Eloy_ (~luc@pinel-recyclage.rain.fr) has quit (*.net *.split)
+2014-05-08 19:22:25	<--	DzAirmaX (~AirmaX@unaffiliated/dzairmax) has quit (*.net *.split)
+2014-05-08 19:22:25	<--	ZuZuD__ (~root@AAubervilliers-151-1-45-35.w83-114.abo.wanadoo.fr) has quit (*.net *.split)
+2014-05-08 19:22:25	<--	Mayi (~Mayi@71.122.207.77.rev.sfr.net) has quit (*.net *.split)
+2014-05-08 19:22:25	<--	Snarf (~snarf@unaffiliated/snarf) has quit (*.net *.split)
+2014-05-08 19:22:25	<--	Morksvard (~Morksvard@91.224.149.141) has quit (*.net *.split)
+2014-05-08 19:39:26	-->	Eloy_ (~luc@81.80.9.144) has joined #ubuntu-fr
+2014-05-08 19:42:20	<--	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has left #ubuntu-fr ("qua sauce !")
+2014-05-08 19:47:21	-->	Mayi (~Mayi@71.122.207.77.rev.sfr.net) has joined #ubuntu-fr
+2014-05-08 19:49:17	-->	Yaam (~Yaam@unaffiliated/yaam) has joined #ubuntu-fr
+2014-05-08 19:56:47	-->	Almtesh (~Almtesh@unaffiliated/almtesh) has joined #ubuntu-fr
+2014-05-08 20:02:46	<--	Yaam (~Yaam@unaffiliated/yaam) has quit (Quit: Quitte)
+2014-05-08 20:03:30	<--	Biaise (~biaise@unaffiliated/biaise) has quit (*.net *.split)
+2014-05-08 20:03:30	<--	JulienME (~Julien@2a01:e35:8b60:e720:21f:d0ff:fe27:7e0e) has quit (*.net *.split)
+2014-05-08 20:03:30	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (*.net *.split)
+2014-05-08 20:03:30	<--	MrPlop (~MrPlop@bender.ddpo.be) has quit (*.net *.split)
+2014-05-08 20:03:31	<--	mirsal (~mirsal@znc0.irc.he-1.ip6.mirsal.fr) has quit (*.net *.split)
+2014-05-08 20:03:31	<--	pfoo (~pfoo@unaffiliated/pfoo) has quit (*.net *.split)
+2014-05-08 20:03:31	<--	leobaillard (~leobailla@2a02:2178:2:9::12) has quit (*.net *.split)
+2014-05-08 20:03:32	<--	mydjey (~djy@unaffiliated/mydjey) has quit (*.net *.split)
+2014-05-08 20:05:28	<--	jluc (~jluc@ADijon-651-1-142-20.w90-13.abo.wanadoo.fr) has quit (Ping timeout: 250 seconds)
+2014-05-08 20:06:02	-->	Fresh (~Fresh@cust-142-102-111-94.dyn.as47377.net) has joined #ubuntu-fr
+2014-05-08 20:06:04	<--	Fresh (~Fresh@cust-142-102-111-94.dyn.as47377.net) has quit (Changing host)
+2014-05-08 20:06:04	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-08 20:07:14	<--	^peter^ (~peter@30.0.168.125.sta.wbroadband.net.au) has quit
+2014-05-08 20:08:30	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 250 seconds)
+2014-05-08 20:18:01	-->	MrPlop (~MrPlop@bender.ddpo.be) has joined #ubuntu-fr
+2014-05-08 20:18:02	-->	Biaise (~biaise@unaffiliated/biaise) has joined #ubuntu-fr
+2014-05-08 20:18:02	-->	JulienME (~Julien@2a01:e35:8b60:e720:21f:d0ff:fe27:7e0e) has joined #ubuntu-fr
+2014-05-08 20:18:02	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has joined #ubuntu-fr
+2014-05-08 20:18:02	-->	mirsal (~mirsal@znc0.irc.he-1.ip6.mirsal.fr) has joined #ubuntu-fr
+2014-05-08 20:18:02	-->	pfoo (~pfoo@unaffiliated/pfoo) has joined #ubuntu-fr
+2014-05-08 20:18:02	-->	leobaillard (~leobailla@2a02:2178:2:9::12) has joined #ubuntu-fr
+2014-05-08 20:18:02	-->	mydjey (~djy@unaffiliated/mydjey) has joined #ubuntu-fr
+2014-05-08 20:36:25	-->	ruxkxbo (~root@str90-h02-128-78-255-120.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-08 20:37:25	<--	ruxkxbo (~root@str90-h02-128-78-255-120.dsl.sta.abo.bbox.fr) has left #ubuntu-fr
+2014-05-08 20:45:15	-->	mezen (~me@unaffiliated/mezen) has joined #ubuntu-fr
+2014-05-08 20:53:55	-->	Sidze (~Sid_@ns212024.ip-188-165-223.eu) has joined #ubuntu-fr
+2014-05-08 20:56:23	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Ping timeout: 246 seconds)
+2014-05-08 21:03:19	-->	caillou (~Alexia@2a01:e35:139d:25c0:f119:4368:fb70:5a82) has joined #ubuntu-fr
+2014-05-08 21:08:29	-->	Luclis (~Luclis@94.117.202.45) has joined #ubuntu-fr
+2014-05-08 21:12:09	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has joined #ubuntu-fr
+2014-05-08 21:13:21	<--	Luclis (~Luclis@94.117.202.45) has quit (Remote host closed the connection)
+2014-05-08 21:13:34	-->	Luclis (~Luclis@94.117.202.45) has joined #ubuntu-fr
+2014-05-08 21:21:37	<--	caillou (~Alexia@2a01:e35:139d:25c0:f119:4368:fb70:5a82) has quit (Quit: Leaving)
+2014-05-08 21:21:58	floown	hello
+2014-05-08 21:22:35	floown	Je cherche un programme ou une ligne de commande pour trouver une expression dans un ensemble de fichiers
+2014-05-08 21:22:47	mezen	floown, grep
+2014-05-08 21:23:02	floown	ah oui
+2014-05-08 21:23:10	mezen	grep "ma chaine de caractère" *.txt
+2014-05-08 21:23:26	floown	ok, merci
+2014-05-08 21:23:40	mezen	de rien
+2014-05-08 21:26:39	<--	Luclis (~Luclis@94.117.202.45) has quit (Read error: Connection reset by peer)
+2014-05-08 21:39:23	-->	Luclis (~Luclis@94.117.202.45) has joined #ubuntu-fr
+2014-05-08 21:39:42	--	piti_ is now known as piti
+2014-05-08 21:39:45	<--	piti (~piti@home.ouahpiti.info) has quit (Changing host)
+2014-05-08 21:39:45	-->	piti (~piti@pdpc/supporter/active/piti) has joined #ubuntu-fr
+2014-05-08 21:40:37	-->	Sithlord (~sithlord@unaffiliated/sithlord) has joined #ubuntu-fr
+2014-05-08 21:41:36	-->	Gibb`s (Selmac@ALille-553-1-159-220.w81-250.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-08 21:48:00	<--	Luclis (~Luclis@94.117.202.45) has quit (Read error: Connection reset by peer)
+2014-05-08 21:48:21	<--	Mimilus (~mimilus@ADijon-256-1-38-238.w81-51.abo.wanadoo.fr) has quit (Ping timeout: 255 seconds)
+2014-05-08 21:55:53	<--	Tux-Tn (~sarhan@88.190.221.125) has quit (Quit: Bitch PLZ)
+2014-05-08 22:08:59	<--	DzAirmaX_ (~AirmaX@unaffiliated/dzairmax) has quit (Ping timeout: 240 seconds)
+2014-05-08 22:11:11	-->	jeflui (~jeflui@unaffiliated/jeflui) has joined #ubuntu-fr
+2014-05-08 22:11:38	-->	Ron022 (4dce1bfd@gateway/web/freenode/ip.77.206.27.253) has joined #ubuntu-fr
+2014-05-08 22:14:55	<--	vov_ (~vov@89-156-7-146.rev.numericable.fr) has quit (Quit: Leaving)
+2014-05-08 22:21:18	Ron022	Installer l'imprimante LEXMARK X2310 ?
+2014-05-08 22:27:39	-->	Marmotte_ (~Marmotte@unaffiliated/marmotte) has joined #ubuntu-fr
+2014-05-08 22:30:40	<--	Marmotte (~Marmotte@unaffiliated/marmotte) has quit (Ping timeout: 240 seconds)
+2014-05-08 22:36:50	<--	Spike29 (~SpiKe@unaffiliated/spike29) has quit (Remote host closed the connection)
+2014-05-08 22:37:07	<--	Ron022 (4dce1bfd@gateway/web/freenode/ip.77.206.27.253) has left #ubuntu-fr
+2014-05-08 22:41:58	-->	tobiasBora (~leo@2a01:e35:2eb9:70e0:305b:1e92:b2ed:8918) has joined #ubuntu-fr
+2014-05-08 22:43:36	-->	Spike29 (~SpiKe@unaffiliated/spike29) has joined #ubuntu-fr
+2014-05-08 22:47:27	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 22:49:08	--	Snarf_ is now known as Snarf
+2014-05-08 22:56:21	<--	nosheep (~gregory@2001:41d0:fe2e:fb00:f46c:1677:1db3:878f) has quit (Quit: Quitte)
+2014-05-08 23:02:25	<--	sylinux (~sylinux@88.233.16.109.rev.sfr.net) has quit (Remote host closed the connection)
+2014-05-08 23:03:01	-->	amj (~amj@77.109.126.242) has joined #ubuntu-fr
+2014-05-08 23:04:36	<--	JulienME (~Julien@2a01:e35:8b60:e720:21f:d0ff:fe27:7e0e) has quit (Remote host closed the connection)
+2014-05-08 23:13:52	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu)
+2014-05-08 23:14:24	--	Mode #ubuntu-fr [-b *!*@221.224-246-81.adsl-dyn.isp.belgacom.be] by uBOTu-fr
+2014-05-08 23:16:30	<--	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has quit (Ping timeout: 240 seconds)
+2014-05-08 23:16:46	-->	serge- (~chatzilla@gob75-9-88-178-8-76.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 23:21:20	-->	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 23:21:54	<--	serge- (~chatzilla@gob75-9-88-178-8-76.fbx.proxad.net) has quit (Quit: ChatZilla 0.9.90.1 [Firefox 29.0/2014042500])
+2014-05-08 23:23:24	-->	Oleti (~Jack@sim31-1-88-176-210-164.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 23:27:18	-->	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-08 23:30:15	<--	Sinikrole (~Thunderbi@226.104.11.109.rev.sfr.net) has quit (Quit: Sinikrole)
+2014-05-08 23:30:37	-->	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-08 23:31:48	-->	alcidi (~alcidi@2a01:e35:2f6a:1ae0:113a:6c31:6c8c:460f) has joined #ubuntu-fr
+2014-05-08 23:32:01	alcidi	salutatous
+2014-05-08 23:32:46	alcidi	quand je laisse ouvert une fenetre nautilus sur ubuntu 14.04 pendant un moment , elle finit par se fermer seule , normal ?
+2014-05-08 23:32:55	alcidi	ça vous fait ça aussi ? (unity)
+2014-05-08 23:33:19	alcidi	je précise , une fenetre non utilisée pendant un long moment, genre 10 minutes
+2014-05-08 23:33:29	alcidi	avec souris qui ne bouge pas
+2014-05-08 23:35:32	<--	clement (~clement@lns-5-49-61-3.dsl.dyn.abo.bbox.fr) has quit (Quit: WeeChat 1.0-dev)
+2014-05-08 23:39:18	mydjey	alcidi: non je pense pas que ce soit normal, j'ai pas remarqué ça chez moi
+2014-05-08 23:40:20	alcidi	bon, autrement j'ai un souci, lorsque je lance une vidéo youtube depuis google, souvent ça ne veut pas la jouer sur chromium, alors que pepper est installé, parfois un petit refresh résoud le probleme et parfois non
+2014-05-08 23:45:09	alcidi	par contre dans youtube lorsque je lance une autre vidéo depuis la première, ça me met parfois le message d'erreur brievement comme quoi il peut pas la jouer mais ensuite ça démarre normalement
+2014-05-08 23:45:29	mezen	alcidi, une façon de voir ce qui se passe c'est de lancer nautilus depuis un terminal et voir si nautilus émet un message d'erreur à sa fermeture
+2014-05-08 23:45:41	alcidi	oui c'est une bonne idée
+2014-05-08 23:45:48	alcidi	je vais le lancer comme ça
+2014-05-08 23:46:03	alcidi	faut juste que je trouve un moment sans utiliser le pc pdt 10 minutes :)
+2014-05-08 23:46:20	mezen	oki
+2014-05-08 23:46:28	alcidi	comme là je bosse , je fais ça dans 10 minutes
+2014-05-08 23:46:59	-->	Mimilus (~mimilus@ADijon-256-1-38-238.w81-51.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-08 23:47:27	mezen	alcidi, c'est quoi pepper ?
+2014-05-08 23:48:16	alcidi	un bout de flash obligatore pour chromium apparemment si j'ai bien compris , en tout cas il semble obligatoire
+2014-05-08 23:48:21	mezen	ah tu parlais de ça ? pepperflashplugin-nonfree
+2014-05-08 23:48:28	alcidi	pepperflashplugin , un nom comme ça
+2014-05-08 23:48:32	alcidi	ouaip
+2014-05-08 23:48:52	mezen	moi je l'ai pas
+2014-05-08 23:49:06	mezen	par contre j'ai flashplugin-installer et chrome (pas chromium)
+2014-05-08 23:49:18	mezen	et je n'ai pas de problème avec youtube
+2014-05-08 23:49:28	alcidi	je vais le virer pour voir si c'est pas buggué
+2014-05-08 23:51:13	<--	kaelsitoo (~kaelsitoo@bau06-8-83-153-46-197.fbx.proxad.net) has quit (Quit: Quitte)
+2014-05-08 23:52:14	alcidi	si je le vire, ça me dit que je n'ai pas de plugin pour lire les vidéos
+2014-05-08 23:52:17	alcidi	:(
+2014-05-08 23:52:35	mezen	alcidi, installe flashplugin-installer
+2014-05-08 23:52:48	alcidi	que je n'ai pas la dernière version de flash alors que celui dont tu me parles est installé
+2014-05-08 23:53:19	alcidi	je fais une réinstallation pour voir
+2014-05-08 23:53:26	mezen	sudo cp /usr/lib/flashplugin-installer/libflashplayer.so /usr/lib/chromium-browser/plugins
+2014-05-08 23:53:40	mezen	puis: chromium-browser --enable-plugins
+2014-05-08 23:54:08	alcidi	je regarde
+2014-05-08 23:54:56	-->	Twoll (~Twoll@unaffiliated/Twoll) has joined #ubuntu-fr
+2014-05-08 23:56:06	alcidi	mezen: chromium-browser --enable-plugins me renvoie ATTENTION: default value of option force_s3tc_enable overridden by environment.
+2014-05-08 23:56:19	alcidi	et ça me met toujours sur le chromium qu'il me manque flash
+2014-05-08 23:56:30	alcidi	bon je réinstalle pepper par dessus tout ça
+2014-05-08 23:56:40	alcidi	ce sera moins pire
+2014-05-08 23:57:35	mezen	attend je teste
+2014-05-08 23:57:44	alcidi	tu testes quoi ?
+2014-05-08 23:59:51	alcidi	chromium sans pepper ?
+2014-05-08 23:59:54	mezen	je teste youtube avec chromium
+2014-05-08 23:59:59	mezen	ça marche
+2014-05-09 00:00:19	mezen	il me dit que je n'ai pas flash mais ça marche quand je clique sur une vidéo
+2014-05-09 00:00:25	alcidi	ubuntu 14.04 ?
+2014-05-09 00:00:30	mezen	t'as un vidéo que je peux tester
+2014-05-09 00:00:32	mezen	?
+2014-05-09 00:00:35	mezen	oui 14.04
+2014-05-09 00:01:00	alcidi	attends je teste
+2014-05-09 00:01:07	alcidi	lance la vidéo depuis google
+2014-05-09 00:01:18	alcidi	google/video
+2014-05-09 00:01:56	alcidi	shaka ponk, tu prends la premiere : my name is stain (official video)
+2014-05-09 00:02:13	alcidi	oui en effet quand je lance depuis youtube ça fonctionne
+2014-05-09 00:02:25	alcidi	mais pas qd je lance depuis google/videos
+2014-05-09 00:02:31	alcidi	étonnant
+2014-05-09 00:02:31	mezen	ça marche
+2014-05-09 00:02:59	alcidi	je ne comprends pas
+2014-05-09 00:03:03	mezen	ça marche pour les deux chez moi
+2014-05-09 00:03:10	alcidi	en plus pepper ne change rien chez moi
+2014-05-09 00:03:29	mezen	https://www.google.fr/search?tbm=vid&hl=fr&source=hp&biw=&bih=&q=chromium&gbv=2&oq=chromium&gs_l=video-hp.3..0l3.8780.10261.0.10521.8.7.0.1.1.0.140.771.4j3.7.0....0...1ac.1.34.video-hp..0.8.776.AKSPLE49noo#gbv=2&hl=fr&q=my+name+is+stain+(official+video)&tbm=vid
+2014-05-09 00:04:03	mezen	c'est bien ça non ?
+2014-05-09 00:04:10	alcidi	oui la première
+2014-05-09 00:04:23	alcidi	mais de toutes façon je l'ai prise au pif, ça me fait ça pour toutes
+2014-05-09 00:05:09	mezen	en tout cas ça marche bien chez moi
+2014-05-09 00:05:13	alcidi	peut être une extension qui fout la merde
+2014-05-09 00:05:33	-->	aranud87 (~aranud@2a02-8429-8045-8a00-862b-2bff-fe81-9df8.rev.sfr.net) has joined #ubuntu-fr
+2014-05-09 00:06:36	alcidi	chez moi y' dans les parametres du navigateur : bloquer les cookies de site tiers, tu as ça toi ?
+2014-05-09 00:06:40	alcidi	chez moi c'est coché
+2014-05-09 00:06:49	-->	glebelg (~glebelg@unaffiliated/glebelg) has joined #ubuntu-fr
+2014-05-09 00:07:27	alcidi	arf ça ne change rien de le décocher alors je le recoche
+2014-05-09 00:08:34	alcidi	c'est casse pied
+2014-05-09 00:08:43	alcidi	je désactive mes extensions, on verra bien
+2014-05-09 00:08:48	<--	Jafura (~Jean-Fran@host-213-213-229-139.brutele.be) has quit (Ping timeout: 252 seconds)
+2014-05-09 00:09:41	mezen	moi j'ai rien dans les extensions
+2014-05-09 00:10:12	alcidi	c'est pire, même depuis youtube ça ne lance rien
+2014-05-09 00:10:51	mezen	fais réinitialiser les paramètres du navigateur
+2014-05-09 00:10:59	mezen	bouton en bas dans les paramètres avancés
+2014-05-09 00:11:05	alcidi	je l'ai relancé
+2014-05-09 00:11:14	alcidi	ce qui revient au même je pense
+2014-05-09 00:11:59	alcidi	ah oui , mais il va tout me virer mes réglages non ?
+2014-05-09 00:12:10	alcidi	genre la barre de favoris etc
+2014-05-09 00:12:40	<--	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has left #ubuntu-fr ("No matter how dark the night, somehow the Sun rises once again")
+2014-05-09 00:12:40	-->	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 00:13:12	mezen	faut pas le faire alors
+2014-05-09 00:13:23	alcidi	je pense que sinon c'est le drame :)
+2014-05-09 00:13:59	mezen	je vois que des fois la vidéo ne se lance pas
+2014-05-09 00:14:06	mezen	www.youtube.com/watch?v=K5KAc5CoCuk
+2014-05-09 00:14:08	alcidi	chez toi aussi ?
+2014-05-09 00:14:16	mezen	par contre des fois la vidéo se lance
+2014-05-09 00:14:20	alcidi	pareil
+2014-05-09 00:14:21	mezen	ça dépend de la video
+2014-05-09 00:14:29	mezen	si c'est flash ou html5 je pense
+2014-05-09 00:14:36	alcidi	avec ubuntu 13.10 je n'avais aucun probleme de cet ordre
+2014-05-09 00:14:40	mezen	il marche pas le plugin je pense
+2014-05-09 00:14:50	alcidi	je pense que y'a un souci oui, un big quelque part
+2014-05-09 00:14:56	alcidi	*bug
+2014-05-09 00:15:35	alcidi	je susi juste surpris d'être pour le moment le seul qui l'avait, maintenant on semble être deux
+2014-05-09 00:15:45	alcidi	ça te le fait sur chrome ou juste sur chromium ?
+2014-05-09 00:16:51	-->	skoiz (~skoiz@AToulouse-254-1-128-31.w86-206.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-09 00:18:21	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 240 seconds)
+2014-05-09 00:19:20	aranud87	vous pouvez vérifier ici : https://www.youtube.com/html5
+2014-05-09 00:19:32	mezen	alcidi, j'essaye un truc
+2014-05-09 00:19:46	alcidi	aranud87:  chez moi tout est coché vert
+2014-05-09 00:20:13	aranud87	c'est surtout la dernière ligne qui doit l'être aussi " Le lecteur HTML5 est actuellement utilisé lorsque cela est possible. "
+2014-05-09 00:20:23	alcidi	oui elle est en vert aussi
+2014-05-09 00:20:52	-->	Fresh (~Fresh@cust-142-102-111-94.dyn.as47377.net) has joined #ubuntu-fr
+2014-05-09 00:20:53	<--	Fresh (~Fresh@cust-142-102-111-94.dyn.as47377.net) has quit (Changing host)
+2014-05-09 00:20:53	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 00:21:10	alcidi	je réinstalle pepper, c'est moins pire
+2014-05-09 00:21:27	aranud87	chromium 6/6, firefox 2/6 :/
+2014-05-09 00:21:40	alcidi	comment ça ?
+2014-05-09 00:22:11	alcidi	firefox n'en a que 2 en vert ?
+2014-05-09 00:22:34	aranud87	oué
+2014-05-09 00:23:05	alcidi	je me demande si quand on installe pepper, il ne faut pas virer le flashplugin classique , je vais tenter, peut être une mésentente entre les deux bien que je pensais qu'ils étaient complémentaires, on va tenter
+2014-05-09 00:23:07	aranud87	mais j'ai une autre distribution qu'ubuntu donc ça doit etre différent de voud
+2014-05-09 00:23:26	alcidi	sans doute parce que avec la 13.10 je n'ai jamais eu de souci de cet ordre
+2014-05-09 00:25:35	-->	Eloy__ (~luc@81.80.9.144) has joined #ubuntu-fr
+2014-05-09 00:29:17	-->	Fresh_ (~Fresh@cust-48-107-111-94.dyn.as47377.net) has joined #ubuntu-fr
+2014-05-09 00:29:17	<--	Fresh_ (~Fresh@cust-48-107-111-94.dyn.as47377.net) has quit (Changing host)
+2014-05-09 00:29:17	-->	Fresh_ (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 00:29:25	<--	oneveu (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu)
+2014-05-09 00:29:45	alcidi	ça fait pareil mais saans le message audessus qui me dit qu'il manque un plugin, juste un message d'acceptation des cookies
+2014-05-09 00:30:21	alcidi	quand je refresh , parfois ça lance la video
+2014-05-09 00:31:37	mezen	alcidi, ça n'a pas marché du coup
+2014-05-09 00:31:53	mezen	alcidi, il te faut absolument le pepperflashplugin-nonfree
+2014-05-09 00:32:39	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 240 seconds)
+2014-05-09 00:32:49	alcidi	oui mais en virant le flashplugin ça ne change rien , donc je le laisse viré celui là
+2014-05-09 00:34:16	mezen	alcidi, aucune idée
+2014-05-09 00:34:47	-->	oneveu1 (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 00:35:33	alcidi	tu as une lecture aléatoire aussi avec chrome ?
+2014-05-09 00:35:50	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Ping timeout: 246 seconds)
+2014-05-09 00:36:33	<--	oneveu1 (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Client Quit)
+2014-05-09 00:37:14	mezen	alcidi, non chrome marche sans prob
+2014-05-09 00:38:29	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has joined #ubuntu-fr
+2014-05-09 00:41:40	alcidi	dans ce cas je vais remplacer chromium par chrome
+2014-05-09 00:41:48	alcidi	je suppose que les deux cohabitent
+2014-05-09 00:42:16	alcidi	fait suer quand même de devoir abandonner chromium , de la même façon ça m'avait fait suer d'abandonner firefox mais bon
+2014-05-09 00:46:31	alcidi	bon on dirait que ça marche un peu mieux chromium maintenant , je ne comprends pas
+2014-05-09 00:46:51	alcidi	j'ai brièvelment le message qui me fdit que ça ne peut pas lire, puis ça lance la vidéo
+2014-05-09 00:47:39	-->	oneveu1 (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 00:53:10	<--	oneveu1 (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu1)
+2014-05-09 00:53:19	<--	Dzx (~Dazax@2a02:a03f:1ea0:bf00:5d41:34c5:dd27:65bb) has quit (Ping timeout: 265 seconds)
+2014-05-09 00:58:01	-->	Calinou (~Calinou@unaffiliated/calinou) has joined #ubuntu-fr
+2014-05-09 00:59:52	-->	Jafura (~Jean-Fran@85.234.199.20) has joined #ubuntu-fr
+2014-05-09 01:08:02	<--	jeflui (~jeflui@unaffiliated/jeflui) has quit (Ping timeout: 264 seconds)
+2014-05-09 01:11:11	-->	Miaw (b2c6f2c5@gateway/web/freenode/ip.178.198.242.197) has joined #ubuntu-fr
+2014-05-09 01:15:09	<--	skoiz (~skoiz@AToulouse-254-1-128-31.w86-206.abo.wanadoo.fr) has quit (Read error: Connection reset by peer)
+2014-05-09 01:15:30	alcidi	mezen:  j'installe chrome et je te dis si ça le fait encore
+2014-05-09 01:15:49	alcidi	fait suer quand même par rapport à l'espionnite de ce logiciel
+2014-05-09 01:16:00	alcidi	on va dire qu'on n'est plus à ça prêt
+2014-05-09 01:16:12	Calinou	Chromium!
+2014-05-09 01:16:14	Calinou	(et encore…)
+2014-05-09 01:21:03	Ubu	t'a le plugin flash qui crash sana arret ?
+2014-05-09 01:21:08	Ubu	sans*
+2014-05-09 01:21:45	-->	Ruddle (~thomas@175.158.187.157) has joined #ubuntu-fr
+2014-05-09 01:30:01	<--	Twoll (~Twoll@unaffiliated/Twoll) has quit (Quit: Twoll)
+2014-05-09 01:31:08	-->	korppio (537196da@gateway/web/freenode/ip.83.113.150.218) has joined #ubuntu-fr
+2014-05-09 01:31:57	Ruddle	Bonjour tout le monde .
+2014-05-09 01:31:59	<--	Jafura (~Jean-Fran@85.234.199.20) has quit (Ping timeout: 265 seconds)
+2014-05-09 01:32:13	Miaw	Salut (:
+2014-05-09 01:32:53	Ruddle	 J'ai installer linuxmint récemment en dualboot avec windows8 , linux marche bien mais windows ne démarre pas . Quand je selectionne windows8 dans le grub ,l'écran devient noir puis le grub réapparait
+2014-05-09 01:34:11	korppio	bonjour, j'ai fait un script shell pour une application que j'ai crée , je change dans propriété l'exécution et quand je double clique dans mon navigateur de fichier sa m'ouvre l'éditeur de texte .
+2014-05-09 01:34:26	<--	rock_n_pol (~rocknpol@pdpc/supporter/monthlysilver/rocknpol) has quit (Ping timeout: 264 seconds)
+2014-05-09 01:34:37	-->	coyotus (~coyotus@unaffiliated/coyotus) has joined #ubuntu-fr
+2014-05-09 01:34:53	-->	serge- (~chatzilla@gob75-9-88-178-8-76.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 01:35:34	<--	glebelg (~glebelg@unaffiliated/glebelg) has quit (Quit: Leaving.)
+2014-05-09 01:35:52	<--	Miaw (b2c6f2c5@gateway/web/freenode/ip.178.198.242.197) has quit (Quit: Page closed)
+2014-05-09 01:36:52	-->	duzra9390 (b2c6f2c5@gateway/web/freenode/ip.178.198.242.197) has joined #ubuntu-fr
+2014-05-09 01:37:32	--	Ubu is now known as Ubu|miam
+2014-05-09 01:41:14	-->	ichigo-roku (~ichigo-ro@151.241.97.84.rev.sfr.net) has joined #ubuntu-fr
+2014-05-09 01:42:46	duzra9390	Bonjour à tous! Je viens solliciter votre aide, si vous voulez bien me l'accorder. J'essaie d'installer Ubuntu 13.10 sur VirtualBox. Tout se passe bien, pas de message d'erreur, j'arrive sur le bureau et rien ne s'affiche si ce n'est ce message d'erreur: "Failed to load module Vboxvideo (module does not exist, 0) " "open/dev/dri/card0 : No such file or directory"
+2014-05-09 01:43:15	duzra9390	J'ai cherché des réponses sur les forums et rien, un petit coup de main?
+2014-05-09 01:43:28	-->	chew (~jean-marc@219.67.69.91.rev.sfr.net) has joined #ubuntu-fr
+2014-05-09 01:43:51	chew	hello world
+2014-05-09 01:44:13	-->	oneveu1 (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 01:45:52	<--	Ruddle (~thomas@175.158.187.157) has quit (Quit: Leaving)
+2014-05-09 01:46:00	<--	Mimilus (~mimilus@ADijon-256-1-38-238.w81-51.abo.wanadoo.fr) has quit (Ping timeout: 276 seconds)
+2014-05-09 01:47:11	alcidi	bizarre ça google chrome se ferme avec la croix à droite sur unity , c'est incohérent avec l'environnement unity
+2014-05-09 01:47:31	-->	rock_n_pol (~rocknpol@pdpc/supporter/monthlysilver/rocknpol) has joined #ubuntu-fr
+2014-05-09 01:47:39	<--	chew (~jean-marc@219.67.69.91.rev.sfr.net) has quit (Quit: Quitte)
+2014-05-09 01:49:51	aranud87	alcidi, unity EST une incohérence ooooo ce troll x)
+2014-05-09 01:50:55	alcidi	oui c'est ce que certains disent
+2014-05-09 01:51:37	alcidi	mais moi j'aime bien
+2014-05-09 01:53:11	-->	vov_ (~vov@89-156-7-146.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-09 01:53:20	alcidi	en tout cas en recopiant le dossier de chromium dans chrome je retrouve toutes mes extensions et mes favoris , c'est cool
+2014-05-09 01:53:27	alcidi	et la croix à gauche aussi
+2014-05-09 01:54:01	-->	Youbi (~youbi@natsu.upyum.com) has joined #ubuntu-fr
+2014-05-09 02:03:23	<--	serge- (~chatzilla@gob75-9-88-178-8-76.fbx.proxad.net) has quit (Quit: ChatZilla 0.9.90.1 [Firefox 29.0/2014042500])
+2014-05-09 02:03:31	<--	jodh (~james@ubuntu/member/jodh) has quit (Quit: WeeChat 0.4.3)
+2014-05-09 02:06:01	-->	Dzx (~Dazax@2a02:a03f:1ea0:bf00:5d41:34c5:dd27:65bb) has joined #ubuntu-fr
+2014-05-09 02:07:15	<--	Biaise (~biaise@unaffiliated/biaise) has quit (Read error: Connection reset by peer)
+2014-05-09 02:08:31	<--	korppio (537196da@gateway/web/freenode/ip.83.113.150.218) has quit (Quit: Page closed)
+2014-05-09 02:12:39	<--	duzra9390 (b2c6f2c5@gateway/web/freenode/ip.178.198.242.197) has quit (Ping timeout: 240 seconds)
+2014-05-09 02:17:08	-->	Vyriep (52424970@gateway/web/freenode/ip.82.66.73.112) has joined #ubuntu-fr
+2014-05-09 02:17:56	<--	Almtesh (~Almtesh@unaffiliated/almtesh) has quit (Remote host closed the connection)
+2014-05-09 02:18:58	-->	jodh (~james@ubuntu/member/jodh) has joined #ubuntu-fr
+2014-05-09 02:19:03	<--	jodh (~james@ubuntu/member/jodh) has quit (Client Quit)
+2014-05-09 02:20:49	-->	serge- (~chatzilla@gob75-9-88-178-8-76.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 02:26:49	<--	slystone (~pi@mou76-1-82-236-56-3.fbx.proxad.net) has quit (Changing host)
+2014-05-09 02:26:49	-->	slystone (~pi@unaffiliated/slystone) has joined #ubuntu-fr
+2014-05-09 02:26:59	-->	carbon1 (~carbon@AStrasbourg-651-1-276-171.w109-221.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-09 02:32:04	<--	serge- (~chatzilla@gob75-9-88-178-8-76.fbx.proxad.net) has quit (Quit: ChatZilla 0.9.90.1 [Firefox 29.0/2014042500])
+2014-05-09 02:33:26	-->	Jafura (~Jean-Fran@85.234.199.20) has joined #ubuntu-fr
+2014-05-09 02:34:59	<--	coyotus (~coyotus@unaffiliated/coyotus) has quit (Ping timeout: 255 seconds)
+2014-05-09 02:35:15	-->	Olivius (~dentles@san83-1-88-179-162-37.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 02:36:16	Olivius	Bonsoir m'sieur dame
+2014-05-09 02:42:44	-->	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 02:42:46	-->	Almtesh (~Almtesh@unaffiliated/almtesh) has joined #ubuntu-fr
+2014-05-09 02:42:49	Olivius	Je pige pas pourquoi, comme ça Ubuntu décide de ne plus prendre en compte ma carte graphique en abaissant ma résolution en 800x600
+2014-05-09 02:43:38	Olivius	l'ecran "gel" et suis obliger de me reconnecter
+2014-05-09 02:48:01	Olivius	J'ai opté pour ubuntu permettant à mon pc en amd 64- 4600 7800gtx, une deuxième vie. mais la je crois que j'arrive au bout
+2014-05-09 02:49:46	<--	oneveu1 (~Thunderbi@sac91-3-83-157-245-108.fbx.proxad.net) has quit (Quit: oneveu1)
+2014-05-09 02:50:29	alcidi	au bout de quoi ?
+2014-05-09 02:52:00	Olivius	De l'utilisation de ce systeme
+2014-05-09 02:52:33	alcidi	ton pc est un vieux machin ?
+2014-05-09 02:53:09	Olivius	j'ai beau changer les pilotes additionnels rien n'y fais normalement j'ai pas à les toucher
+2014-05-09 02:53:22	alcidi	ouaip mieux vaut pas
+2014-05-09 02:54:14	Olivius	mon pc assenblé autour d'un amd 64-4600 avec une gtx 7800 et 2go ram
+2014-05-09 02:54:22	-->	skoiz (~skoiz@AToulouse-254-1-128-31.w86-206.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-09 02:55:05	alcidi	je ne connais pas amd64 - 4600 en tout cas chez moi ça tourne impecc avec un core 2 duo qui date un peu
+2014-05-09 02:56:01	Olivius	depuis combien de temps tu fais tourner linux sur ta becane
+2014-05-09 02:56:28	Olivius	j'ai l'impression qu'unity n'a rien arrangé
+2014-05-09 02:56:53	<--	Jafura (~Jean-Fran@85.234.199.20) has quit (Ping timeout: 240 seconds)
+2014-05-09 02:57:53	Olivius	Alors que sous win xp c'est impec c'est tout de meme un comble
+2014-05-09 02:58:48	alcidi	j'ai toujours eu ubuntu dessus , je pense qu'elle a 4 ans peut être 5. Je l'ai achetée sans OS
+2014-05-09 02:59:33	alcidi	j'ai une carte graph peut être plus puissante que toi et 4 Go de ram
+2014-05-09 02:59:37	-->	hid (~hid@xenon.tunnelize-me.com) has joined #ubuntu-fr
+2014-05-09 02:59:37	<--	hid (~hid@xenon.tunnelize-me.com) has quit (Changing host)
+2014-05-09 02:59:37	-->	hid (~hid@unaffiliated/hid) has joined #ubuntu-fr
+2014-05-09 02:59:48	Olivius	Un matos soit cela fonctionne soit cela ne fonctionne pas
+2014-05-09 03:00:05	alcidi	j'ai eu un vieux pc sur lequel ubuntu avait du mal qd même
+2014-05-09 03:00:17	Olivius	ah voila
+2014-05-09 03:00:26	Olivius	jsuis pas seul
+2014-05-09 03:00:34	alcidi	un vieil athlon, mais le probleme a été résolu en mettant xubuntu dessus
+2014-05-09 03:01:03	alcidi	je pense que j'aurais eu du mal aussi avec win 7 ou 8 dessus , c'est normal au bout d'un moment
+2014-05-09 03:02:16	Olivius	les vieilles versions d'ubuntu ne sont plus pris en charge et donc impossible de travailler avec
+2014-05-09 03:02:40	alcidi	xubuntu 14.04 doit être sortie
+2014-05-09 03:04:34	Olivius	Donc la soluce est de racheter un autre pc, donc on retombe même avec linux dans un systeme de conso
+2014-05-09 03:05:04	alcidi	pourquoi tu ne laisses pas une précédente version ?
+2014-05-09 03:06:21	Olivius	Parce que les autres au bout d'un moment aussi finissent par planter ma carte et donc ma resolution
+2014-05-09 03:06:32	alcidi	ah oui , en effet
+2014-05-09 03:06:42	alcidi	ta carte n'a pas un problème ?
+2014-05-09 03:07:03	alcidi	ça peut venir de là aussi éventuellement
+2014-05-09 03:07:11	Olivius	bin pourquoi sous xp ça baigne
+2014-05-09 03:07:22	alcidi	dans ce cas c'est pas la carte alors
+2014-05-09 03:09:13	Olivius	sauf que sous linux et xp le curseur de ma souris se retrouve en haut de l'ecran alors qu'il était en bas c'est la seul anomalie commune
+2014-05-09 03:10:39	alcidi	il semble en effet bien dater ton pc , genre 2006 non ?
+2014-05-09 03:10:51	Olivius	exact
+2014-05-09 03:11:18	-->	Mimilus (~mimilus@ADijon-256-1-38-238.w81-51.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-09 03:11:26	alcidi	pourquoi ne pas essayer xubuntu dans un premier temps
+2014-05-09 03:11:31	Olivius	carte mere a8n sli deluxe asus
+2014-05-09 03:11:50	alcidi	puis une distrib linux pour pc plus ancien si ça ne convient pas
+2014-05-09 03:12:03	alcidi	sinon y'a une autre version de ubuntu pour les pc qui datent mais j'ai oublié le nom
+2014-05-09 03:12:10	<--	Dzx (~Dazax@2a02:a03f:1ea0:bf00:5d41:34c5:dd27:65bb) has quit (Remote host closed the connection)
+2014-05-09 03:13:33	Olivius	cela me serais bien utile, je vais voir pour une dernière chance vers xubuntu 14.04
+2014-05-09 03:13:51	alcidi	je vais essayer de retrouver le nom de l'autre ubuntu encore plus léger
+2014-05-09 03:14:05	<--	Spike29 (~SpiKe@unaffiliated/spike29) has quit (Quit: bye-bye)
+2014-05-09 03:15:01	alcidi	Olivius:  Lubuntu, mais jamais testée celle là
+2014-05-09 03:15:14	alcidi	Olivius:  http://doc.ubuntu-fr.org/variantes
+2014-05-09 03:17:26	<--	Fresh_ (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 252 seconds)
+2014-05-09 03:18:30	Olivius	Force est de constater q'xp acornis ça bouge pas, je suis un peu dépité
+2014-05-09 03:20:52	alcidi	c 'est quoi " xp acornis " ?
+2014-05-09 03:21:18	Olivius	une version cracké
+2014-05-09 03:22:16	<--	Ubu|miam (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has quit (Quit: ciao !)
+2014-05-09 03:24:13	Olivius	Merci alcidi de m'avoir laissé quelques pistes
+2014-05-09 03:25:20	alcidi	De nada :)
+2014-05-09 03:26:58	<--	Olivius (~dentles@san83-1-88-179-162-37.fbx.proxad.net) has quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+2014-05-09 03:27:02	-->	Jafura (~Jean-Fran@211-191-62-37.mobileinternet.proximus.be) has joined #ubuntu-fr
+2014-05-09 03:29:19	-->	admine_ (~admine@155.198.130.77.rev.sfr.net) has joined #ubuntu-fr
+2014-05-09 03:29:44	<--	Youbi (~youbi@natsu.upyum.com) has quit (Quit: leaving)
+2014-05-09 03:31:36	<--	mephistope (~admine@96.34.14.81.rev.sfr.net) has quit (Ping timeout: 240 seconds)
+2014-05-09 03:32:29	-->	FTC56 (~ftc56@2a02-8422-1944-8c00-f1a7-3b48-18a5-d9c4.rev.sfr.net) has joined #ubuntu-fr
+2014-05-09 03:32:42	<--	admine_ (~admine@155.198.130.77.rev.sfr.net) has quit (Client Quit)
+2014-05-09 03:36:30	FTC56	Bonjour !
+2014-05-09 03:36:55	-->	davlefou (~davlefou@unaffiliated/davlefou) has joined #ubuntu-fr
+2014-05-09 03:37:00	FTC56	Dites-moi, je souhaiterais réinitialiser la configuration sonore de Kubuntu, car j'ai des périphériques dans la config du son qui n'existent pas ou que je n'utilise plus.
+2014-05-09 03:37:23	FTC56	Comment je peux les supprimer, ou tout simplement supprimer la configuration du son de Kubuntu ?
+2014-05-09 03:39:39	<--	clampin__ (c2083e7e@gateway/web/freenode/ip.194.8.62.126) has quit (Ping timeout: 240 seconds)
+2014-05-09 03:40:18	-->	eexez (~eexez@68.197-241-81.adsl-dyn.isp.belgacom.be) has joined #ubuntu-fr
+2014-05-09 03:40:19	<--	eexez (~eexez@68.197-241-81.adsl-dyn.isp.belgacom.be) has quit (Changing host)
+2014-05-09 03:40:19	-->	eexez (~eexez@unaffiliated/eexez) has joined #ubuntu-fr
+2014-05-09 03:44:17	<--	hid (~hid@unaffiliated/hid) has quit (Ping timeout: 255 seconds)
+2014-05-09 03:45:47	-->	pedagobox (5c843e1e@gateway/web/freenode/ip.92.132.62.30) has joined #ubuntu-fr
+2014-05-09 03:53:03	-->	Kaz_ (~kaz@ANantes-651-1-68-42.w2-0.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-09 03:55:51	<--	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has quit (Quit: WeeChat 0.3.8)
+2014-05-09 03:55:54	<--	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has quit (Ping timeout: 258 seconds)
+2014-05-09 03:56:09	<--	Vyriep (52424970@gateway/web/freenode/ip.82.66.73.112) has quit (Ping timeout: 240 seconds)
+2014-05-09 03:56:22	<--	alcidi (~alcidi@2a01:e35:2f6a:1ae0:113a:6c31:6c8c:460f) has left #ubuntu-fr
+2014-05-09 03:57:17	pedagobox	Bonsoir à tous, j'essaye de monter une piratebox (pour une utilisation pédagogique) mais je suis bloqué au moment de définir le dossier en partage. Je souhaiterai qu'il soit sur une carte SD .. or, elle ne se monte pas. Je suis avec un eeepc701 sous Lubuntu 14.04, la carte est formatée en FAT32, je n'arrive à rien faire avec gnome-disks.. si je veux créer une partition (fat ou ext4), j'ai "erreur lors de la création de la
+2014-05-09 03:57:33	pedagobox	don't know how to create partitions this partition table of type '(null)' (udisks-error-quark, 0) .... j'ai cherché sur le net.. sans succès
+2014-05-09 03:58:08	-->	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-09 03:58:16	davlefou	pedagobox, c'est quoi une pirateboix?
+2014-05-09 03:58:39	pedagobox	un réseau wifi lan...
+2014-05-09 03:58:49	<--	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has quit (Client Quit)
+2014-05-09 03:59:44	<--	moza (~moza@dynamic.1.16.34dbfd721d80.0236994134c.afb.bredband2.com) has quit (Quit: do widzenia)
+2014-05-09 04:00:22	pedagobox	arf, je viens de m'y connecter sans faire attention ... désolé, http://fr.wikipedia.org/wiki/PirateBox
+2014-05-09 04:00:26	-->	glebihan__ (~glebihan@unaffiliated/glebihan) has joined #ubuntu-fr
+2014-05-09 04:01:14	pedagobox	ma question porte plus sur comment faire en sorte que ma cartesd soit accessible et montée en permanence... là je bloque (je suis plutôt novice en linux)
+2014-05-09 04:01:24	-->	Freezby (~koolhl@dec69-h03-87-88-214-74.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-09 04:02:18	<--	aranud87 (~aranud@2a02-8429-8045-8a00-862b-2bff-fe81-9df8.rev.sfr.net) has quit (Quit: Leaving)
+2014-05-09 04:02:29	pedagobox	j'ai suivi ce tutoriel http://piratebox.aod-rpg.de/dokuwiki/doku.php/script-package_for_debian_based_systemes#what_do_you_need mais j'ai bloqué sur "configure your share-folder" ..
+2014-05-09 04:04:17	pedagobox	j'ai tenté avec une clé usb, en mettant /media/piratebox/112212122121/repertoirepartage ... mais cette clé ne veut plus se monter non plus :(
+2014-05-09 04:04:33	<--	Kaz_ (~kaz@ANantes-651-1-68-42.w2-0.abo.wanadoo.fr) has quit (Remote host closed the connection)
+2014-05-09 04:05:06	pedagobox	ou plutôt elle ne se monte pas au démarrage (et c'est moins pratique qu'une cartesd ;) )
+2014-05-09 04:05:29	<--	Jafura (~Jean-Fran@211-191-62-37.mobileinternet.proximus.be) has quit (Ping timeout: 258 seconds)
+2014-05-09 04:05:52	-->	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-09 04:07:05	-->	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 04:08:39	<--	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has quit (Remote host closed the connection)
+2014-05-09 04:09:17	pedagobox	si je fais un sudo fdisk -l , cette carte apparaît comme sdb  (bon signe, j'en ai une autre de 32Go qui n'apparait pas)
+2014-05-09 04:10:09	pedagobox	et si je fais sudo blkid ... ben, rien ne sort apres mon mot de passe .. cela reste en attente on dirait
+2014-05-09 04:11:16	-->	Enissay (~Enissay@unaffiliated/enissay) has joined #ubuntu-fr
+2014-05-09 04:11:17	-->	|kos-mos| (~kvirc@amg01-2-78-227-45-65.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 04:12:19	pedagobox	je suis bien tenté d'essayer de passe par disk-manager http://doc.ubuntu-fr.org/disk-manager mais je n'ai pas envie de casser mon lubuntu 14.4 tout neuf, disk-manager est compatible avec 14.04 ?
+2014-05-09 04:16:03	<--	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has quit (Quit: WeeChat 0.3.8)
+2014-05-09 04:16:30	-->	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-09 04:17:51	<--	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has quit (Client Quit)
+2014-05-09 04:18:57	<--	vov_ (~vov@89-156-7-146.rev.numericable.fr) has quit (Quit: Leaving)
+2014-05-09 04:20:23	<--	skoiz (~skoiz@AToulouse-254-1-128-31.w86-206.abo.wanadoo.fr) has quit (Quit: Quitte)
+2014-05-09 04:26:01	pedagobox	en utilisant gnome-disks, j'ai supprimé toutes les partitions (j'ai alors un "Périphérique bloc 16GB"), j'ai lancé son formatage rapide ... cela va prendre longtemps selon vous (cela fait bien 5minutes et cela tourne toujours), j'ai demande MBR/DOS
+2014-05-09 04:26:38	<--	Almtesh (~Almtesh@unaffiliated/almtesh) has quit (Remote host closed the connection)
+2014-05-09 04:29:46	davlefou	pedagobox, je vois pourquoi tu justifie ta motivation, tu es libre de la créer
+2014-05-09 04:31:43	-->	hid (~hid@90.90.77.86.rev.sfr.net) has joined #ubuntu-fr
+2014-05-09 04:31:43	<--	hid (~hid@90.90.77.86.rev.sfr.net) has quit (Changing host)
+2014-05-09 04:31:43	-->	hid (~hid@unaffiliated/hid) has joined #ubuntu-fr
+2014-05-09 04:33:15	|kos-mos|	Bonsoir
+2014-05-09 04:35:27	|kos-mos|	Quand je ferme firefox et que j'essaie de le relancer j'ai régulièrement un message me disant qu'il y a déjà un processus firefox en cours
+2014-05-09 04:35:49	|kos-mos|	Suis-je le seul ? :)
+2014-05-09 04:36:54	amj	non suffit de faire sudo killall firefox ;) (déconseillé en fait)
+2014-05-09 04:38:50	<--	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has quit (Ping timeout: 258 seconds)
+2014-05-09 04:48:23	-->	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-09 04:49:16	<--	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has quit (Client Quit)
+2014-05-09 04:50:18	-->	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 04:50:36	Freezby	|kos-mos|: oui il garde en memoire des "process" firefox
+2014-05-09 04:50:49	Freezby	d'ailleurs si tu  lances un htops
+2014-05-09 04:50:54	Freezby	d'ailleurs si tu  lances un htop*
+2014-05-09 04:51:09	-->	Fresh_ (~Fresh@cust-48-107-111-94.dyn.as47377.net) has joined #ubuntu-fr
+2014-05-09 04:51:09	<--	Fresh_ (~Fresh@cust-48-107-111-94.dyn.as47377.net) has quit (Changing host)
+2014-05-09 04:51:10	-->	Fresh_ (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 04:51:12	Freezby	et que tu filtres par mot (F3 ou F4)
+2014-05-09 04:51:38	Freezby	tu t apercevras que le process "firefox" existe en plusieurs fois
+2014-05-09 04:57:07	<--	Freezby (~koolhl@dec69-h03-87-88-214-74.dsl.sta.abo.bbox.fr) has quit (Remote host closed the connection)
+2014-05-09 04:58:12	<--	amj (~amj@77.109.126.242) has quit (Quit: WeeChat 0.4.3)
+2014-05-09 04:59:11	<--	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has quit (Ping timeout: 252 seconds)
+2014-05-09 05:01:43	<--	Calinou (~Calinou@unaffiliated/calinou) has quit (Remote host closed the connection)
+2014-05-09 05:01:50	pedagobox	davlefou, malheureusement, je bloque sur un truc qui devrait être automatique arffff
+2014-05-09 05:04:30	-->	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 05:04:34	-->	Jafura (~Jean-Fran@host-213-213-229-139.brutele.be) has joined #ubuntu-fr
+2014-05-09 05:06:18	pedagobox	j'ai erreur de formatage du disque, error synchronizing after initial wipe : time out etc. etc...
+2014-05-09 05:09:19	<--	Oleti (~Jack@sim31-1-88-176-210-164.fbx.proxad.net) has quit (Ping timeout: 240 seconds)
+2014-05-09 05:10:34	pedagobox	tant pis tant pis
+2014-05-09 05:10:50	pedagobox	bonne soirée à tous ;)
+2014-05-09 05:11:04	-->	framatophe (~christoph@AStrasbourg-651-1-41-222.w83-196.abo.wanadoo.fr) has joined #ubuntu-fr
+2014-05-09 05:11:26	framatophe	bonsoir tt le monde :)
+2014-05-09 05:15:21	<--	pkv (~pkv_@liv26-1-88-167-196-27.fbx.proxad.net) has quit (Remote host closed the connection)
+2014-05-09 05:15:48	-->	lepiaf (~lepiaf@dag94-h01-5-50-74-112.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-09 05:16:15	<--	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has quit (Ping timeout: 265 seconds)
+2014-05-09 05:18:15	-->	Minos (~Minos@2a01:e34:ef0d:8ae0:201:c0ff:fe06:8ba9) has joined #ubuntu-fr
+2014-05-09 05:18:32	-->	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has joined #ubuntu-fr
+2014-05-09 05:19:36	-->	Freshgale (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 05:19:37	<--	Freshgale (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 05:19:37	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 05:20:09	<--	pedagobox (5c843e1e@gateway/web/freenode/ip.92.132.62.30) has quit (Ping timeout: 240 seconds)
+2014-05-09 05:21:34	<--	Fresh_ (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 265 seconds)
+2014-05-09 05:23:30	<--	FTC56 (~ftc56@2a02-8422-1944-8c00-f1a7-3b48-18a5-d9c4.rev.sfr.net) has quit (Ping timeout: 265 seconds)
+2014-05-09 05:29:20	<--	framatophe (~christoph@AStrasbourg-651-1-41-222.w83-196.abo.wanadoo.fr) has quit (Quit: WeeChat 0.4.2)
+2014-05-09 05:30:26	<--	ichigo-roku (~ichigo-ro@151.241.97.84.rev.sfr.net) has quit (Quit: Leaving)
+2014-05-09 05:32:24	-->	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-09 05:32:50	<--	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has quit (Client Quit)
+2014-05-09 05:33:45	-->	laurent_ (~laurent@plb95-9-78-241-233-201.fbx.proxad.net) has joined #ubuntu-fr
+2014-05-09 05:34:24	-->	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-09 05:37:31	<--	Mimilus (~mimilus@ADijon-256-1-38-238.w81-51.abo.wanadoo.fr) has quit (Ping timeout: 265 seconds)
+2014-05-09 05:38:43	-->	Biaise (~biaise@unaffiliated/biaise) has joined #ubuntu-fr
+2014-05-09 05:41:33	-->	Hernou (~lio@245.43-67-87.adsl-dyn.isp.belgacom.be) has joined #ubuntu-fr
+2014-05-09 05:41:46	Hernou	avec wine sur ubuntu 14.04
+2014-05-09 05:42:01	Hernou	j'émule un burreau virtuel en plein écran
+2014-05-09 05:42:16	Hernou	et la barre du haut reste affichée… -_-
+2014-05-09 05:42:26	Hernou	comment on fait pour la virer ???
+2014-05-09 05:43:21	<--	Biaise (~biaise@unaffiliated/biaise) has quit (Client Quit)
+2014-05-09 05:46:16	-->	Fresh (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 05:46:16	<--	Fresh (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 05:46:16	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 05:49:14	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 252 seconds)
+2014-05-09 05:49:43	<--	tobiasBora (~leo@2a01:e35:2eb9:70e0:305b:1e92:b2ed:8918) has quit (Quit: Konversation terminated!)
+2014-05-09 05:55:45	<--	lepiaf (~lepiaf@dag94-h01-5-50-74-112.dsl.sta.abo.bbox.fr) has quit (Quit: Konversation terminated!)
+2014-05-09 06:03:36	-->	^peter^ (~peter@30.0.168.125.sta.wbroadband.net.au) has joined #ubuntu-fr
+2014-05-09 06:06:25	<--	laurent_ (~laurent@plb95-9-78-241-233-201.fbx.proxad.net) has quit (Quit: Quitte)
+2014-05-09 06:08:42	<--	Eloy_ (~luc@81.80.9.144) has quit (Read error: Connection reset by peer)
+2014-05-09 06:08:42	<--	Eloy__ (~luc@81.80.9.144) has quit (Remote host closed the connection)
+2014-05-09 06:10:26	<--	eexez (~eexez@unaffiliated/eexez) has quit (Quit: Konversation terminated!)
+2014-05-09 06:11:32	<--	cadeskywalker (~madoka@put92-h04-212-194-144-131.dsl.sta.abo.bbox.fr) has quit (Quit: WeeChat 0.3.8)
+2014-05-09 06:11:52	<--	khor (~khor@cau33-3-82-233-71-243.fbx.proxad.net) has quit (Quit: Quitte)
+2014-05-09 06:14:15	<--	clampin (~david@91.176.63.57) has quit (Ping timeout: 265 seconds)
+2014-05-09 06:30:05	-->	Freshgale (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 06:30:05	<--	Freshgale (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 06:30:05	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 06:31:55	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 245 seconds)
+2014-05-09 06:33:07	Aristide	Hi
+2014-05-09 06:33:48	Aristide	I have a problem with pulseaudio. When I plug my headphone, I must up sound level on alsamixer for listen audion, because plug headphone put speaker on my speaker :/
+2014-05-09 06:34:04	Aristide	Heu salult pardon x) C'est vrai je suis sur le canal francophone là xD
+2014-05-09 06:35:26	Aristide	Yo
+2014-05-09 06:35:32	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Quit: http://quassel-irc.org - Discuter simplement. Partout.)
+2014-05-09 06:51:45	-->	Fresh (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 06:51:46	<--	Fresh (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 06:51:46	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 06:55:26	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 264 seconds)
+2014-05-09 06:57:10	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has joined #ubuntu-fr
+2014-05-09 07:00:39	-->	Freshgale (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 07:00:40	<--	Freshgale (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 07:00:40	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 07:02:56	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 252 seconds)
+2014-05-09 07:03:10	-->	Fresh (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 07:03:11	<--	Fresh (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 07:03:11	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 07:05:47	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 276 seconds)
+2014-05-09 07:07:39	<--	joalland (~joalland@ip-62-241-83-162.evc.net) has quit (Quit: Leaving)
+2014-05-09 07:12:15	<--	jmvanel (~jmvanel@175.0.88.79.rev.sfr.net) has quit (Ping timeout: 265 seconds)
+2014-05-09 07:24:38	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 276 seconds)
+2014-05-09 07:25:44	-->	Fresh (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 07:25:44	<--	Fresh (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 07:25:44	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 07:29:15	-->	Freshgale (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 07:29:16	<--	Freshgale (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 07:29:16	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 07:30:34	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 250 seconds)
+2014-05-09 07:38:40	-->	Fresh (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 07:38:41	<--	Fresh (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 07:38:41	-->	Fresh (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 07:38:53	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 240 seconds)
+2014-05-09 07:42:41	-->	alphad (~quassel@196.201.66.201) has joined #ubuntu-fr
+2014-05-09 07:54:30	<--	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has quit (Quit: ciao !)
+2014-05-09 07:58:15	<--	Fresh (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 240 seconds)
+2014-05-09 08:02:01	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:c2:8ff:fec1:936b) has quit (Read error: Connection reset by peer)
+2014-05-09 08:02:32	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:6443:6105:aae7:21cf) has joined #ubuntu-fr
+2014-05-09 08:03:40	-->	Freshgale (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 08:03:40	<--	Freshgale (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 08:03:40	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 08:06:38	<--	Aristide (~quassel@2a01:e35:2eb9:64b0:6443:6105:aae7:21cf) has quit (Ping timeout: 246 seconds)
+2014-05-09 08:09:04	-->	Aristide (~quassel@2a01:e35:2eb9:64b0:6443:6105:aae7:21cf) has joined #ubuntu-fr
+2014-05-09 08:13:29	Hernou	je n'arrive pas à faire fonctionner ma manette avec wine :'(
+2014-05-09 08:21:00	-->	Ubu (~Ubu@ip-5.net-82-216-93.rev.numericable.fr) has joined #ubuntu-fr
+2014-05-09 08:21:31	-->	Fresh_ (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 08:21:32	<--	Fresh_ (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 08:21:32	-->	Fresh_ (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 08:21:39	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 240 seconds)
+2014-05-09 08:24:08	--	Ubu is now known as Ubu|Zz
+2014-05-09 08:28:29	mezen	manette ?
+2014-05-09 08:39:16	-->	Freshgale (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 08:39:17	<--	Freshgale (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 08:39:17	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 08:42:38	<--	Fresh_ (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 276 seconds)
+2014-05-09 08:50:50	-->	tuxmax (~tuxmax@24-226-153-126.dr.cgocable.ca) has joined #ubuntu-fr
+2014-05-09 09:04:30	<--	Gibb`s (Selmac@ALille-553-1-159-220.w81-250.abo.wanadoo.fr) has quit (Quit: Les mots ne peuvent exprimer les choses. Les paroles ne reflètent pas la pensée. Encombré de mots, l'esprit se brouille.)
+2014-05-09 09:07:47	<--	Freshgale (~Fresh@unaffiliated/freshgale) has quit (Ping timeout: 252 seconds)
+2014-05-09 09:14:50	-->	Freshgale (~Fresh@91.176.63.223) has joined #ubuntu-fr
+2014-05-09 09:14:50	<--	Freshgale (~Fresh@91.176.63.223) has quit (Changing host)
+2014-05-09 09:14:51	-->	Freshgale (~Fresh@unaffiliated/freshgale) has joined #ubuntu-fr
+2014-05-09 09:19:04	<--	tuxmax (~tuxmax@24-226-153-126.dr.cgocable.ca) has quit (Ping timeout: 252 seconds)
+2014-05-09 09:31:32	--	irc: disconnected from server

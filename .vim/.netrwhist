@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/media/Iomega_HDD/Epitech/projet_E'
+let g:netrw_dirhist_2='/media/Iomega_HDD/Epitech/projet_E/igraphe'
+let g:netrw_dirhist_3='/media/Iomega_HDD/Epitech/projet_E/igraphe/parser_igraph'
+let g:netrw_dirhist_4='/media/Iomega_HDD/Epitech/projet_E/igraphe'
+let g:netrw_dirhist_5='/media/Iomega_HDD/Epitech/projet_E/igraphe/parser_igraph2'
+let g:netrw_dirhist_6='/home/coste_m/.dotfiles'
